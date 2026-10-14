@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property="og:title" content="Frames XIV">
+  <meta property="og:type" content="website">
+  <meta name="description" content="Browse every purchasable painting in Final Fantasy XIV, filterable by vendor, region and expansion, with Lodestone links.">
+  <meta property="og:description" content="Browse every purchasable painting in Final Fantasy XIV, filterable by vendor, region and expansion, with Lodestone links.">
+  <title>Frames XIV - Paintings</title>
+  <link rel="shortcut icon" href="./assets/favicon.png" type="image/x-icon">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div id="site-title">
+      <img src="./assets/frames-xiv.png" alt="">
+      <h1>frames XIV</h1>
+      <span>Explore, collect and discover FFXIV frames</span>
+    </div>
+    <nav id="site-nav">
+      <a href="./index.html" class="nav-link">
+        <span class="icon nav-icon icon-home"></span>
+        <span data-i18n="header.home">What's new</span>
+      </a>
+      <a href="./paintings.html" class="nav-link">
+        <span class="icon nav-icon icon-paintings"></span>
+        <span data-i18n="header.paintings">Paintings</span>
+      </a>
+      <div id="lang-switch">
+        <button id="lang-toggle" type="button">
+          <span id="lang-on">EN</span>
+        </button>
+        <ul id="lang-menu">
+          <li><button type="button" data-language="en">EN</button></li>
+          <li><button type="button" data-language="fr">FR</button></li>
+          <li><button type="button" data-language="de">DE</button></li>
+          <li><button type="button" data-language="ja">JA</button></li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+  <div id="middle-bar" class="filters-bar">
+
+    <div id="all-filters-toggle" class="toggle-block">
+      <h2 id="all-filters-title" data-i18n="filters.title">Filters</h2>
+      <button id="all-filters-btn" class="toggle-btn is-active"><span class="icon icon-toggle"></span></button>
+    </div>
+
+    <div id="filters-block">
+
+      <div class="list-block">
+
+        <div id="exp-toggle" class="toggle-block">
+          <h3 data-i18n="filters.expansions">Expansion</h3>
+          <button class="toggle-btn"><span class="icon icon-toggle"></span></button>
+        </div>
+
+        <ul id="exp-list" class="filters-list"></ul>
+
+      </div>
+      <div class="list-block">
+
+        <div id="area-toggle" class="toggle-block">
+          <h3 data-i18n="filters.areas">Region</h3>
+          <button class="toggle-btn"><span class="icon icon-toggle"></span></button>
+        </div>
+
+        <ul id="area-list" class="filters-list"></ul>
+
+      </div>
+
+    </div>
+
+      <div id="search-bar-container">
+        <input type="search" name="search-bar" id="search-bar-area" data-i18n-placeholder="filters.searchPlaceholder" placeholder="Painting name…">
+        <button><span class="icon icon-search"></span><span id="search-btn-text" data-i18n="filters.searchButton">Search</span></button>
+      </div>
+
+  </div>
+  <main class="gallery" id="gallery"></main>
+  <div id="modal" class="">
+    <div id="modal-card">
+      <button type="button" id="modal-close" class="icon icon-close" aria-label="Close"></button>
+      <img src="./assets/landscapes/16938.png" alt="" id="modal-img">
+      <div id="modal-info">
+        <h2>Title</h2>
+        <div id="modal-exp">
+          <h3>Extension</h3>
+          <div>
+            <img src="./assets/icons/expansions/ARR.png" alt="" class="modal-icon">
+            <span>A Realm Reborn</span>
+          </div>
+        </div>
+        <div id="modal-area">
+          <h3>Region</h3>
+          <div>
+            <img src="./assets/icons/achievement.png" alt="" class="modal-icon">
+            <span>Noscea</span>
+          </div>
+        </div>
+        <ul id="modal-unlock">
+          <h3>Unlock</h3>
+          <li>
+            <img src="./assets/icons/achievement.png" alt="" class="modal-icon">
+            <span>Achievement</span>
+          </li>
+          <li>
+            <img src="./assets/icons/achievement.png" alt="" class="modal-icon">
+            <span>Vendor</span>
+          </li>
+        </ul>
+        <ul id="modal-links">
+          <h3>Links</h3>
+          <li>
+            <img src="./assets/icons/links/lodestone.png" alt="" class="modal-icon">
+            <span>Lodestone</span>
+          </li>
+          <li>
+            <img src="./assets/icons/links/garlandDB.png" alt="" class="modal-icon">
+            <span>GarlandDB</span>
+          </li>
+        </ul>
+        
+      </div>
+    </div>
+  </div>
+  <footer>
+    <span class="footer-note">
+      <span class="icon nav-icon icon-flag"></span>
+      <span><span data-i18n="footer.start">Translations made with AI, please </span><a href="https://github.com/Luneriane/frames-xiv/issues" target="_blank" id="footer-report" data-i18n="footer.middle">report</a><span data-i18n="footer.end"> any mistakes.</span></span>
+    </span>
+    <span class="footer-note">
+      <span class="icon nav-icon icon-credits"></span>
+      <span>Credits : Font Awesome, Square Enix</span>
+    </span>
+  </footer>
+<script src="https://lds-img.finalfantasyxiv.com/pc/global/js/eorzeadb/loader.js?v3"></script>
+<script src="./scripts/main.js"></script>
+<script src="./scripts/paintings.js"></script>
+</body>
+</html>

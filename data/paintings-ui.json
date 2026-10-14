@@ -1,0 +1,80 @@
+{
+  "filters":{
+    "en": "Filters",
+    "fr": "Filtres",
+    "de": "Filter",
+    "ja": "フィルター"
+  },
+  "searchPlaceholder": {
+    "en": "Painting name…",
+    "fr": "Nom d'une peinture…",
+    "de": "Name des Gemäldes…",
+    "ja": "絵画の名前…"
+  },
+  "searchLabel": {
+    "en": "Search",
+    "fr": "Rechercher",
+    "de": "Suchen",
+    "ja": "検索"
+  },
+  "expansionLabel": {
+    "en": "Expansion",
+    "fr": "Extension",
+    "de": "Erweiterung",
+    "ja": "拡張パック"
+  },
+  "areaLabel": {
+    "en": "Region",
+    "fr": "Région",
+    "de": "Region",
+    "ja": "地域"
+  },
+  "unlockLabel": {
+    "en": "How to obtain",
+    "fr": "Obtention",
+    "de": "Erhalt",
+    "ja": "入手方法"
+  },
+  "achievementLabel": {
+    "en": "Achievement",
+    "fr": "Haut-fait",
+    "de": "Errungenschaft",
+    "ja": "実績"
+  },
+  "vendorLabel": {
+    "en": "Vendor",
+    "fr": "Vendeur",
+    "de": "Händler",
+    "ja": "商人"
+  },
+  "linksLabel": {
+    "en": "Search for this item on:",
+    "fr": "Rechercher cet objet sur :",
+    "de": "Diesen Gegenstand suchen auf:",
+    "ja": "このアイテムを検索:"
+  },
+  "closeLabel": {
+    "en": "Close",
+    "fr": "Fermer",
+    "de": "Schließen",
+    "ja": "閉じる"
+  },
+  "resultsCount": {
+    "en": "{count} painting(s) found",
+    "fr": "{count} peinture(s) trouvée(s)",
+    "de": "{count} Gemälde gefunden",
+    "ja": "{count} 件の絵画が見つかりました"
+  },
+  "emptyState":{
+    "en": "No painting matches these filters.",
+    "fr": "Aucune peinture ne correspond à ces filtres.",
+    "de": "Kein Gemälde entspricht diesen Filtern.",
+    "ja": "この条件に一致する絵画はありません。"
+  },
+  "loadError":{
+    "en": "Could not load the gallery data. Make sure the page is served through a local server (Live Server), not opened by double-click.",
+    "fr": "Impossible de charger les données de la galerie. Vérifiez que la page est servie via un serveur local (Live Server), pas ouverte en double-clic.",
+    "de": "Die Galeriedaten konnten nicht geladen werden. Stellen Sie sicher, dass die Seite über einen lokalen Server (Live Server) bereitgestellt wird und nicht per Doppelklick geöffnet wurde.",
+    "ja": "ギャラリーのデータを読み込めませんでした。ページがローカルサーバー(Live Serverなど)経由で表示されているか確認してください。"
+  }
+}

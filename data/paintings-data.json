@@ -1,0 +1,8864 @@
+{
+  "areas": {
+    "10": {
+      "en": "The Northern Empty",
+      "fr": "mers du Nord",
+      "de": "Nördliche Meere",
+      "ja": "北洋地域",
+      "shopId": 263130
+    },
+    "11": {
+      "en": "Ilsabard",
+      "fr": "Ilsabard",
+      "de": "Ilsabard",
+      "ja": "イルサバード",
+      "shopId": 263131
+    },
+    "12": {
+      "en": "The World Unsundered",
+      "fr": "ancien monde",
+      "de": "Unzersplitterte Welt",
+      "ja": "古代世界",
+      "shopId": 263132
+    },
+    "13": {
+      "en": "The Sea of Stars",
+      "fr": "espace intersidéral",
+      "de": "Kosmos",
+      "ja": "星外宙域",
+      "shopId": 263133
+    },
+    "14": {
+      "en": "Yok Tural",
+      "fr": "Yok Tural",
+      "de": "Yok Tural",
+      "ja": "ヨカ・トラル",
+      "shopId": 263223
+    },
+    "15": {
+      "en": "Xak Tural",
+      "fr": "Xak Tural",
+      "de": "Xak Tural",
+      "ja": "サカ・トラル",
+      "shopId": 263224
+    },
+    "16": {
+      "en": "Unlost World",
+      "fr": "Monde inéphémère",
+      "de": "Unverlorene Welt",
+      "ja": "アンロスト・ワールド",
+      "shopId": 263225
+    },
+    "01": {
+      "en": "La Noscea",
+      "fr": "Noscea",
+      "de": "La Noscea",
+      "ja": "ラノシア",
+      "shopId": 262659
+    },
+    "02": {
+      "en": "The Black Shroud",
+      "fr": "Sombrelinceul",
+      "de": "Finsterwald",
+      "ja": "黒衣森",
+      "shopId": 262660
+    },
+    "03": {
+      "en": "Thanalan",
+      "fr": "Thanalan",
+      "de": "Thanalan",
+      "ja": "ザナラーン",
+      "shopId": 262661
+    },
+    "04": {
+      "en": "Coerthas, Mor Dhona",
+      "fr": "Coerthas/Mor Dhona",
+      "de": "Coerthas, Mor Dhona",
+      "ja": "クルザス／モードゥナ",
+      "shopId": 262662
+    },
+    "05": {
+      "en": "Dravania",
+      "fr": "Dravania",
+      "de": "Dravania",
+      "ja": "ドラヴァニア",
+      "shopId": 262906
+    },
+    "06": {
+      "en": "Abalathia's Spine",
+      "fr": "Abalathia",
+      "de": "Abalathia",
+      "ja": "アバラシア",
+      "shopId": 262907
+    },
+    "07": {
+      "en": "Gyr Abania",
+      "fr": "Gyr Abania",
+      "de": "Gyr Abania",
+      "ja": "ギラバニア",
+      "shopId": 262892
+    },
+    "08": {
+      "en": "Othard",
+      "fr": "Othard",
+      "de": "Othard",
+      "ja": "オサード",
+      "shopId": 262893
+    },
+    "09": {
+      "en": "The First",
+      "fr": "premier reflet",
+      "de": "Erste Splitterwelt",
+      "ja": "第一世界",
+      "shopId": 263013
+    }
+  },
+  "shop": {
+    "joyous-painter": {
+      "name": {
+        "en": "Joyous painter",
+        "fr": "Peintre prolifique",
+        "de": "Fröhlich[a] Kunstmaler",
+        "ja": "速筆の画家"
+      },
+      "npcId": 1018401,
+      "lodestoneId": "dde3c9ced9c"
+    },
+    "art-appraiser": {
+      "name": {
+        "en": "Art appraiser",
+        "fr": "Marchand de tableaux",
+        "de": "Bilderhändler",
+        "ja": "画商の男"
+      },
+      "npcId": 1035532,
+      "lodestoneId": "8e3b8307143"
+    }
+  },
+  "tags": {},
+  "achievement": {
+    "928": {
+      "name": {
+        "en": "Out of Sight",
+        "fr": "Touriste d'Éorzéa",
+        "de": "Das kann sich sehen lassen",
+        "ja": "駆け出しの探検家"
+      },
+      "lodestoneId": "3697a8e0665"
+    },
+    "929": {
+      "name": {
+        "en": "Out of Sight Out of Mind",
+        "fr": "Argonaute d'Éorzéa",
+        "de": "Weltenbummler",
+        "ja": "熟練の探検家"
+      },
+      "lodestoneId": "9a2cc19313e"
+    },
+    "1312": {
+      "name": {
+        "en": "Out of Sight Out of Bounds I",
+        "fr": "Touriste des terres du nord",
+        "de": "Nordlicht I",
+        "ja": "蒼天の探検家"
+      },
+      "lodestoneId": "99193d6b90b"
+    },
+    "1386": {
+      "name": {
+        "en": "Out of Sight Out of Bounds II",
+        "fr": "Explorateur des terres du nord",
+        "de": "Nordlicht II",
+        "ja": "蒼天の熟練探検家"
+      },
+      "lodestoneId": "62bda7d7bfe"
+    },
+    "1903": {
+      "name": {
+        "en": "Oh, the Sights We'll See I",
+        "fr": "Touriste des terres de l'est",
+        "de": "Reisestürmer I",
+        "ja": "紅蓮の探検家"
+      },
+      "lodestoneId": "d505b300250"
+    },
+    "1965": {
+      "name": {
+        "en": "Oh, the Sights We'll See II",
+        "fr": "Explorateur des terres de l'est",
+        "de": "Reisestürmer II",
+        "ja": "紅蓮の熟練探検家"
+      },
+      "lodestoneId": "424e327b536"
+    },
+    "2370": {
+      "name": {
+        "en": "Darksighters I",
+        "fr": "Explorateur de l'ombre",
+        "de": "Reisen durch die Schatten",
+        "ja": "漆黒の探検家"
+      },
+      "lodestoneId": "376250c5b91"
+    },
+    "2973": {
+      "name": {
+        "en": "End in Sight",
+        "fr": "Horizon des confins",
+        "de": "Ende in Sicht",
+        "ja": "暁月の探検家"
+      },
+      "lodestoneId": "3930f84b6a8"
+    },
+    "3510": {
+      "name": {
+        "en": "Happy Trails",
+        "fr": "Touriste des terres de l'ouest",
+        "de": "Das Gold der Erde",
+        "ja": "黄金の探検家"
+      },
+      "lodestoneId": "5c92b67aef0"
+    }
+  },
+  "paintings": [
+    {
+      "id": 16938,
+      "type": "painting",
+      "name": {
+        "en": "Barracuda Piers Painting",
+        "fr": "Les quais du barracuda",
+        "de": "Gemälde „Barrakuda-Pier“",
+        "ja": "風景画:バラクーダ埠頭"
+      },
+      "extension": "ARR",
+      "area": "01",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 928
+        }
+      ],
+      "lodestoneId": "f17c4f4685f"
+    },
+    {
+      "id": 16939,
+      "type": "painting",
+      "name": {
+        "en": "Astalicia Painting",
+        "fr": "L'Astalicia",
+        "de": "Gemälde „Die Astalicia“",
+        "ja": "風景画:海賊船「アスタリシア号」"
+      },
+      "extension": "ARR",
+      "area": "01",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 928
+        }
+      ],
+      "lodestoneId": "6978920c53e"
+    },
+    {
+      "id": 16940,
+      "type": "painting",
+      "name": {
+        "en": "Seasong Grotto Painting",
+        "fr": "La stèle du chant marin",
+        "de": "Gemälde „Klagegrotte“",
+        "ja": "風景画:シーソング石窟の慰霊碑"
+      },
+      "extension": "ARR",
+      "area": "01",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 928
+        }
+      ],
+      "lodestoneId": "3358dc499d7"
+    },
+    {
+      "id": 16941,
+      "type": "painting",
+      "name": {
+        "en": "Skylift Painting",
+        "fr": "L'Ascenciel",
+        "de": "Gemälde „Himmelszug“",
+        "ja": "風景画:スカイリフト"
+      },
+      "extension": "ARR",
+      "area": "01",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 928
+        }
+      ],
+      "lodestoneId": "88bef7ae266"
+    },
+    {
+      "id": 16942,
+      "type": "painting",
+      "name": {
+        "en": "La Thagran Eastroad Painting",
+        "fr": "La route orientale de la Thagran",
+        "de": "Gemälde „La Thagran-Landstraße“",
+        "ja": "風景画:ラザグラン街道"
+      },
+      "extension": "ARR",
+      "area": "01",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 928
+        }
+      ],
+      "lodestoneId": "24f9e345c1f"
+    },
+    {
+      "id": 16943,
+      "type": "painting",
+      "name": {
+        "en": "Salt Strand Painting",
+        "fr": "Les atolls de sel",
+        "de": "Gemälde „Der Salzstrand“",
+        "ja": "風景画:ソルトストランド"
+      },
+      "extension": "ARR",
+      "area": "01",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 928
+        }
+      ],
+      "lodestoneId": "12593f7ed32"
+    },
+    {
+      "id": 16944,
+      "type": "painting",
+      "name": {
+        "en": "Red Rooster Stead Painting",
+        "fr": "La métairie du Coq rouge",
+        "de": "Gemälde „Gockelburg“",
+        "ja": "風景画:レッドルースター農場の畑"
+      },
+      "extension": "ARR",
+      "area": "01",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 928
+        }
+      ],
+      "lodestoneId": "95408d86b31"
+    },
+    {
+      "id": 16945,
+      "type": "painting",
+      "name": {
+        "en": "Brewer's Beacon Painting",
+        "fr": "Le phare des Brasseurs",
+        "de": "Gemälde „Leuchtturm Braubake“",
+        "ja": "風景画:ブルワーズ灯台"
+      },
+      "extension": "ARR",
+      "area": "01",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 928
+        }
+      ],
+      "lodestoneId": "fbfa9ddb471"
+    },
+    {
+      "id": 17057,
+      "type": "painting",
+      "name": {
+        "en": "Woad Whisper Canyon Painting",
+        "fr": "Le canyon des Chuchotements",
+        "de": "Gemälde „Flüsterklamm“",
+        "ja": "風景画:ささやきの谷"
+      },
+      "extension": "ARR",
+      "area": "01",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "5bdce0007a3"
+    },
+    {
+      "id": 17058,
+      "type": "painting",
+      "name": {
+        "en": "Summerford Farms Painting",
+        "fr": "Les vergers d'Estival",
+        "de": "Gemälde „Sommerfurt-Höfe“",
+        "ja": "風景画:サマーフォード庄"
+      },
+      "extension": "ARR",
+      "area": "01",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "73171dac4a6"
+    },
+    {
+      "id": 17059,
+      "type": "painting",
+      "name": {
+        "en": "Grey Fleet Painting",
+        "fr": "La Flotte grise",
+        "de": "Gemälde „Die Graue Flotte“",
+        "ja": "風景画:グレイフリート風車群"
+      },
+      "extension": "ARR",
+      "area": "01",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "1e393349fa2"
+    },
+    {
+      "id": 17060,
+      "type": "painting",
+      "name": {
+        "en": "Hidden Falls Painting",
+        "fr": "La Chute cachée",
+        "de": "Gemälde „Verborgener Wasserfall“",
+        "ja": "風景画:隠れ滝"
+      },
+      "extension": "ARR",
+      "area": "01",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "8904beda81c"
+    },
+    {
+      "id": 17061,
+      "type": "painting",
+      "name": {
+        "en": "Gullperch Tower Painting",
+        "fr": "La tour de la Mouette",
+        "de": "Gemälde „Sturmvogelturm“",
+        "ja": "風景画:白鴎塔"
+      },
+      "extension": "ARR",
+      "area": "01",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "6f22e379809"
+    },
+    {
+      "id": 17062,
+      "type": "painting",
+      "name": {
+        "en": "Navigator Painting",
+        "fr": "La statue de Llymlaen",
+        "de": "Gemälde „Llymlaen-Statue in Bierhafen“",
+        "ja": "風景画:エールポートのリムレーン像"
+      },
+      "extension": "ARR",
+      "area": "01",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "9cdb0089c14"
+    },
+    {
+      "id": 17063,
+      "type": "painting",
+      "name": {
+        "en": "Ship Graveyard Painting",
+        "fr": "Le cimetière de bateaux",
+        "de": "Gemälde „Schiffsfriedhof“",
+        "ja": "風景画:船の墓場"
+      },
+      "extension": "ARR",
+      "area": "01",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "cbe46828f1a"
+    },
+    {
+      "id": 17064,
+      "type": "painting",
+      "name": {
+        "en": "Camp Skull Valley Painting",
+        "fr": "Le camp de la vallée du Crâne",
+        "de": "Gemälde „Camp Schädeltal“",
+        "ja": "風景画:キャンプ・スカルバレー"
+      },
+      "extension": "ARR",
+      "area": "01",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "c112e84798d"
+    },
+    {
+      "id": 17065,
+      "type": "painting",
+      "name": {
+        "en": "Tidegate Painting",
+        "fr": "Les barrages du nord et du sud",
+        "de": "Gemälde „Nord- und Süddamm“",
+        "ja": "風景画:南北防波壁"
+      },
+      "extension": "ARR",
+      "area": "01",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "136e0bf01ba"
+    },
+    {
+      "id": 17066,
+      "type": "painting",
+      "name": {
+        "en": "Camp Bronze Lake Painting",
+        "fr": "Le camp du lac d'Airain",
+        "de": "Gemälde „Camp Bronzesee“",
+        "ja": "風景画:キャンプ・ブロンズレイク"
+      },
+      "extension": "ARR",
+      "area": "01",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "91420fc7ca4"
+    },
+    {
+      "id": 17067,
+      "type": "painting",
+      "name": {
+        "en": "Thalaos Painting",
+        "fr": "Thalaos",
+        "de": "Gemälde „Thalaos“",
+        "ja": "風景画:サラオスの亡骸"
+      },
+      "extension": "ARR",
+      "area": "01",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "23d4161d3fa"
+    },
+    {
+      "id": 17120,
+      "type": "painting",
+      "name": {
+        "en": "Jijiroon's Trading Post Painting",
+        "fr": "Le comptoir de Jijiroon",
+        "de": "Gemälde „Jijiroons Handelsposten“",
+        "ja": "風景画:ジジルン交易商店"
+      },
+      "extension": "ARR",
+      "area": "01",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "431c2a633e1"
+    },
+    {
+      "id": 17068,
+      "type": "painting",
+      "name": {
+        "en": "Floating City of Nym Painting",
+        "fr": "La cité flottante de Nym",
+        "de": "Gemälde „Schwebende Stadt Nym“",
+        "ja": "風景画:ニーム浮遊遺跡"
+      },
+      "extension": "ARR",
+      "area": "01",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "b204d5c98df"
+    },
+    {
+      "id": 17069,
+      "type": "painting",
+      "name": {
+        "en": "Camp Overlook Painting",
+        "fr": "Le camp du Guet",
+        "de": "Gemälde „Camp Ausblick“",
+        "ja": "風景画:キャンプ・オーバールック"
+      },
+      "extension": "ARR",
+      "area": "01",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "f00133bc809"
+    },
+    {
+      "id": 17070,
+      "type": "painting",
+      "name": {
+        "en": "U'Ghamaro Mines Painting",
+        "fr": "Les mines d'U'Ghamaro",
+        "de": "Gemälde „U'Ghamaro-Minen“",
+        "ja": "風景画:ウ・ガマロ武装鉱山"
+      },
+      "extension": "ARR",
+      "area": "01",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "882da7c6a28"
+    },
+    {
+      "id": 17071,
+      "type": "painting",
+      "name": {
+        "en": "Hermit's Hovel Painting",
+        "fr": "La masure de l'ermite",
+        "de": "Gemälde „Einsiedlerhütte“",
+        "ja": "風景画:隠者の庵"
+      },
+      "extension": "ARR",
+      "area": "01",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "6cbe513f588"
+    },
+    {
+      "id": 17116,
+      "type": "painting",
+      "name": {
+        "en": "La Thagran Checkpoint Watercolor Painting",
+        "fr": "Le poste de la Thagran (aquarelle)",
+        "de": "Aquarell „La Thagran-Grenzposten“",
+        "ja": "水彩画:ラザグラン関門"
+      },
+      "extension": "ARR",
+      "area": "01",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        }
+      ],
+      "lodestoneId": "d21062c2051"
+    },
+    {
+      "id": 17117,
+      "type": "painting",
+      "name": {
+        "en": "Mark of the Twelve Illustration",
+        "fr": "La stèle de Nymeia (pochade)",
+        "de": "Illustration „Monument der Zwölf“",
+        "ja": "イラスト画:十二神石碑"
+      },
+      "extension": "ARR",
+      "area": "01",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        }
+      ],
+      "lodestoneId": "caa3ad0c046"
+    },
+    {
+      "id": 17118,
+      "type": "painting",
+      "name": {
+        "en": "Sahagin Landbase Oil Painting",
+        "fr": "Le campement sahuagin (huile)",
+        "de": "Ölgemälde „Sahagin-Feldlager“",
+        "ja": "油彩画:サハギン軍陣営"
+      },
+      "extension": "ARR",
+      "area": "01",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        }
+      ],
+      "lodestoneId": "1b6f7385040"
+    },
+    {
+      "id": 17119,
+      "type": "painting",
+      "name": {
+        "en": "Isles of Umbra Oil Painting",
+        "fr": "Les îles d'Ombra (huile)",
+        "de": "Ölgemälde „Phantominseln“",
+        "ja": "油彩画:幻影諸島"
+      },
+      "extension": "ARR",
+      "area": "01",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        }
+      ],
+      "lodestoneId": "84c5d81b265"
+    },
+    {
+      "id": 17136,
+      "type": "painting",
+      "name": {
+        "en": "Jijiroon's Trading Post Illustration",
+        "fr": "Le comptoir de Jijiroon (pochade)",
+        "de": "Illustration „Jijiroons Handelsposten“",
+        "ja": "イラスト画:ジジルン交易商店"
+      },
+      "extension": "ARR",
+      "area": "01",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        }
+      ],
+      "lodestoneId": "068a8d208bd"
+    },
+    {
+      "id": 16946,
+      "type": "painting",
+      "name": {
+        "en": "Leatherworkers' Guild Painting",
+        "fr": "La guilde des tanneurs",
+        "de": "Gemälde „Atelier Fen-Yll“",
+        "ja": "風景画:革細工師ギルド"
+      },
+      "extension": "ARR",
+      "area": "02",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 928
+        }
+      ],
+      "lodestoneId": "25afd0866aa"
+    },
+    {
+      "id": 16947,
+      "type": "painting",
+      "name": {
+        "en": "Apkallu Falls Painting",
+        "fr": "Les chutes de l'Apkallu",
+        "de": "Gemälde „Apkallu-Fälle“",
+        "ja": "風景画:アプカル滝"
+      },
+      "extension": "ARR",
+      "area": "02",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 928
+        }
+      ],
+      "lodestoneId": "505469c5cf7"
+    },
+    {
+      "id": 16948,
+      "type": "painting",
+      "name": {
+        "en": "Bentbranch Meadows Painting",
+        "fr": "Le ranch de Brancharquée",
+        "de": "Gemälde „Gut Zwieselgrund“",
+        "ja": "風景画:ベントブランチ牧場"
+      },
+      "extension": "ARR",
+      "area": "02",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 928
+        }
+      ],
+      "lodestoneId": "b59305b5778"
+    },
+    {
+      "id": 16949,
+      "type": "painting",
+      "name": {
+        "en": "Sanctum of the Twelve Painting",
+        "fr": "Le Sanctuaire des Douze",
+        "de": "Gemälde „Dom der Einkehr“",
+        "ja": "風景画:十二神大聖堂"
+      },
+      "extension": "ARR",
+      "area": "02",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 928
+        }
+      ],
+      "lodestoneId": "51e4255c627"
+    },
+    {
+      "id": 16950,
+      "type": "painting",
+      "name": {
+        "en": "Little Solace Painting",
+        "fr": "Le Refuge",
+        "de": "Gemälde „Sylphen-Zuflucht“",
+        "ja": "風景画:シルフの仮宿"
+      },
+      "extension": "ARR",
+      "area": "02",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 928
+        }
+      ],
+      "lodestoneId": "53c21019472"
+    },
+    {
+      "id": 17072,
+      "type": "painting",
+      "name": {
+        "en": "Carline Canopy Painting",
+        "fr": "Le Don de Figaga",
+        "de": "Gemälde „Hexenstübchen und Wasserrad“",
+        "ja": "風景画:カーラインカフェと大水車"
+      },
+      "extension": "ARR",
+      "area": "02",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "72bbe384792"
+    },
+    {
+      "id": 17073,
+      "type": "painting",
+      "name": {
+        "en": "Lancers' Guild Painting",
+        "fr": "La guilde des maîtres d'hast",
+        "de": "Gemälde „Gilde der Pikeniere“",
+        "ja": "風景画:槍術士ギルド"
+      },
+      "extension": "ARR",
+      "area": "02",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "567c7685ddb"
+    },
+    {
+      "id": 17074,
+      "type": "painting",
+      "name": {
+        "en": "Bannock Painting",
+        "fr": "Le Bannock",
+        "de": "Gemälde „Der Stubben“",
+        "ja": "風景画:バノック練兵所"
+      },
+      "extension": "ARR",
+      "area": "02",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "e6de40ce728"
+    },
+    {
+      "id": 17075,
+      "type": "painting",
+      "name": {
+        "en": "Haukke Manor Painting",
+        "fr": "Le Manoir des Haukke",
+        "de": "Gemälde „Haukke-Herrenhaus“",
+        "ja": "風景画:ハウケタ御用邸"
+      },
+      "extension": "ARR",
+      "area": "02",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "abb050a27f0"
+    },
+    {
+      "id": 17076,
+      "type": "painting",
+      "name": {
+        "en": "Guardian Tree Painting",
+        "fr": "L'Arbre gardien",
+        "de": "Gemälde „Wächterbaum“",
+        "ja": "風景画:長老の木"
+      },
+      "extension": "ARR",
+      "area": "02",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "f7906143cd4"
+    },
+    {
+      "id": 17077,
+      "type": "painting",
+      "name": {
+        "en": "Rainbow Bridge Painting",
+        "fr": "La cascade de l'arc-en-ciel",
+        "de": "Gemälde „Regenbogenfall“",
+        "ja": "風景画:虹架けの滝"
+      },
+      "extension": "ARR",
+      "area": "02",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "1be9062d336"
+    },
+    {
+      "id": 17078,
+      "type": "painting",
+      "name": {
+        "en": "Seedbed Painting",
+        "fr": "Le Berceau",
+        "de": "Gemälde „Sprösslings-Wiege“",
+        "ja": "風景画:ゆりかごの大樹"
+      },
+      "extension": "ARR",
+      "area": "02",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "d82430e12a5"
+    },
+    {
+      "id": 17079,
+      "type": "painting",
+      "name": {
+        "en": "Buscarron's Druthers Painting",
+        "fr": "Le Choix de Buscarron",
+        "de": "Gemälde „Buscarrons Horst“",
+        "ja": "風景画:酒房バスカロンドラザーズ"
+      },
+      "extension": "ARR",
+      "area": "02",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "d5e6a39c936"
+    },
+    {
+      "id": 17080,
+      "type": "painting",
+      "name": {
+        "en": "South Shroud Landing Painting",
+        "fr": "L'aérodrome de la Forêt du sud",
+        "de": "Gemälde „Luftschiff-Landeplatz (Südwald)“",
+        "ja": "風景画:サウスシュラウド・ランディング"
+      },
+      "extension": "ARR",
+      "area": "02",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "0c42ebe4acb"
+    },
+    {
+      "id": 17081,
+      "type": "painting",
+      "name": {
+        "en": "Urth's Gift Painting",
+        "fr": "Le Don d'Urth",
+        "de": "Gemälde „Urths Segen“",
+        "ja": "風景画:ウルズの恵み"
+      },
+      "extension": "ARR",
+      "area": "02",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "e53d78e1057"
+    },
+    {
+      "id": 17082,
+      "type": "painting",
+      "name": {
+        "en": "Quarrymill Painting",
+        "fr": "Le Moulin de la Carrière",
+        "de": "Gemälde „Mühlenbruch“",
+        "ja": "風景画:クォーリーミル"
+      },
+      "extension": "ARR",
+      "area": "02",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "054828b5735"
+    },
+    {
+      "id": 17083,
+      "type": "painting",
+      "name": {
+        "en": "Ixali Logging Grounds Painting",
+        "fr": "Le site de déboisement ixal",
+        "de": "Gemälde „Ixal-Kahlhieb“",
+        "ja": "風景画:イクサル軍伐採所"
+      },
+      "extension": "ARR",
+      "area": "02",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "ea9bd3e1117"
+    },
+    {
+      "id": 17084,
+      "type": "painting",
+      "name": {
+        "en": "Fallen Neurolink Painting",
+        "fr": "L'Ombrage du Météore",
+        "de": "Gemälde „Meteoritenkrater“",
+        "ja": "風景画:メテオの陰地"
+      },
+      "extension": "ARR",
+      "area": "02",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "794954223cd"
+    },
+    {
+      "id": 17085,
+      "type": "painting",
+      "name": {
+        "en": "Alder Springs Painting",
+        "fr": "Les sources de l'Aulne",
+        "de": "Gemälde „Erlenbrunnen“",
+        "ja": "風景画:アルダースプリングス"
+      },
+      "extension": "ARR",
+      "area": "02",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "99c2c94e475"
+    },
+    {
+      "id": 17121,
+      "type": "painting",
+      "name": {
+        "en": "Gabineaux's Bower Oil Painting",
+        "fr": "La cabane de Gabineaux (huile)",
+        "de": "Ölgemälde „Gabineauxs Laube“",
+        "ja": "油彩画:ガビノー親方の小屋"
+      },
+      "extension": "ARR",
+      "area": "02",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        }
+      ],
+      "lodestoneId": "0bd9aa3e098"
+    },
+    {
+      "id": 17122,
+      "type": "painting",
+      "name": {
+        "en": "Hanging Barbs Watercolor Painting",
+        "fr": "Les Piques pendues (aquarelle)",
+        "de": "Aquarell „Die hängenden Gärten“",
+        "ja": "水彩画:ハンギングバーブ"
+      },
+      "extension": "ARR",
+      "area": "02",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        }
+      ],
+      "lodestoneId": "7537434cc4f"
+    },
+    {
+      "id": 17123,
+      "type": "painting",
+      "name": {
+        "en": "Buscarron's Druthers Illustration",
+        "fr": "Le Choix de Buscarron (pochade)",
+        "de": "Illustration „Buscarrons Horst“",
+        "ja": "イラスト画:バスカロンドラザーズ"
+      },
+      "extension": "ARR",
+      "area": "02",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        }
+      ],
+      "lodestoneId": "3156d4444ef"
+    },
+    {
+      "id": 17124,
+      "type": "painting",
+      "name": {
+        "en": "Ixali Logging Grounds Oil Painting",
+        "fr": "Le site de déboisement ixal (huile)",
+        "de": "Ölgemälde „Ixal-Kahlhieb“",
+        "ja": "油彩画:イクサル軍伐採所"
+      },
+      "extension": "ARR",
+      "area": "02",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        }
+      ],
+      "lodestoneId": "7372fcdfa77"
+    },
+    {
+      "id": 17125,
+      "type": "painting",
+      "name": {
+        "en": "Hyrstmill Watercolor Painting",
+        "fr": "Le Moulin des Bois (aquarelle)",
+        "de": "Aquarell „Mühlenhain“",
+        "ja": "水彩画:ハーストミル"
+      },
+      "extension": "ARR",
+      "area": "02",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        }
+      ],
+      "lodestoneId": "f1a91884533"
+    },
+    {
+      "id": 16951,
+      "type": "painting",
+      "name": {
+        "en": "Royal Promenade Painting",
+        "fr": "La promenade royale",
+        "de": "Gemälde „Herrscherpromenade“",
+        "ja": "風景画:ロイヤルプロムナード"
+      },
+      "extension": "ARR",
+      "area": "03",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 928
+        }
+      ],
+      "lodestoneId": "7687d23808d"
+    },
+    {
+      "id": 16952,
+      "type": "painting",
+      "name": {
+        "en": "Gold Court Painting",
+        "fr": "La Cour dorée",
+        "de": "Gemälde „Platz der Sultana“",
+        "ja": "風景画:ゴールドコート"
+      },
+      "extension": "ARR",
+      "area": "03",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 928
+        }
+      ],
+      "lodestoneId": "b04c1c65ade"
+    },
+    {
+      "id": 16953,
+      "type": "painting",
+      "name": {
+        "en": "Jewel of the Desert Painting",
+        "fr": "Ul'dah",
+        "de": "Gemälde „Ul'dah“",
+        "ja": "風景画:交易都市:ウルダハ"
+      },
+      "extension": "ARR",
+      "area": "03",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 928
+        }
+      ],
+      "lodestoneId": "93a9b526f51"
+    },
+    {
+      "id": 16954,
+      "type": "painting",
+      "name": {
+        "en": "Ruins of Sil'dih Painting",
+        "fr": "Les vestiges de Sil'dih",
+        "de": "Gemälde „Sil'dih-Ruinen“",
+        "ja": "風景画:シラディハ遺跡"
+      },
+      "extension": "ARR",
+      "area": "03",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 928
+        }
+      ],
+      "lodestoneId": "86bb39929ec"
+    },
+    {
+      "id": 16955,
+      "type": "painting",
+      "name": {
+        "en": "Lonely Giant Painting",
+        "fr": "Le géant solitaire",
+        "de": "Gemälde „Versteinerte Goobbue“",
+        "ja": "風景画:グゥーブーの骸"
+      },
+      "extension": "ARR",
+      "area": "03",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 928
+        }
+      ],
+      "lodestoneId": "db6f0b6fdd8"
+    },
+    {
+      "id": 16956,
+      "type": "painting",
+      "name": {
+        "en": "Invisible City Painting",
+        "fr": "La Cité invisible",
+        "de": "Gemälde „Die Unsichtbare Stadt“",
+        "ja": "風景画:見えざる都"
+      },
+      "extension": "ARR",
+      "area": "03",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 928
+        }
+      ],
+      "lodestoneId": "98f6fcfb8fb"
+    },
+    {
+      "id": 16957,
+      "type": "painting",
+      "name": {
+        "en": "Highbridge Painting",
+        "fr": "Le Viaduc",
+        "de": "Gemälde „Hohenbrück“",
+        "ja": "風景画:ハイブリッジ"
+      },
+      "extension": "ARR",
+      "area": "03",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 928
+        }
+      ],
+      "lodestoneId": "a1230f7a407"
+    },
+    {
+      "id": 17086,
+      "type": "painting",
+      "name": {
+        "en": "Castrum Marinum Painting",
+        "fr": "Castrum Marinum",
+        "de": "Gemälde „Castrum Marinum“",
+        "ja": "風景画:カステッルム・マリヌム"
+      },
+      "extension": "ARR",
+      "area": "03",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "28d4cac3417"
+    },
+    {
+      "id": 17087,
+      "type": "painting",
+      "name": {
+        "en": "Vesper Bay Painting",
+        "fr": "La baie des Vêpres",
+        "de": "Gemälde „Bucht des Abendsterns“",
+        "ja": "風景画:ベスパーベイのロロリト像"
+      },
+      "extension": "ARR",
+      "area": "03",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "8f4642fb6f4"
+    },
+    {
+      "id": 17088,
+      "type": "painting",
+      "name": {
+        "en": "Black Brush Station Painting",
+        "fr": "La gare de Roncenoire",
+        "de": "Gemälde „Kohlenstaub-Bahnhof“",
+        "ja": "風景画:ブラックブラッシュ停留所"
+      },
+      "extension": "ARR",
+      "area": "03",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "b19c2a5c0bb"
+    },
+    {
+      "id": 17089,
+      "type": "painting",
+      "name": {
+        "en": "Gate of Nald Painting",
+        "fr": "La porte de Nald",
+        "de": "Gemälde „Tor des Nald“",
+        "ja": "風景画:ナル大門"
+      },
+      "extension": "ARR",
+      "area": "03",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "6bb9e4207c4"
+    },
+    {
+      "id": 17090,
+      "type": "painting",
+      "name": {
+        "en": "Burning Wall Painting",
+        "fr": "Le Mur incandescent",
+        "de": "Gemälde „Der Feuerwall“",
+        "ja": "風景画:バーニングウォール"
+      },
+      "extension": "ARR",
+      "area": "03",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "776190a6aed"
+    },
+    {
+      "id": 17091,
+      "type": "painting",
+      "name": {
+        "en": "Golden Bazaar Painting",
+        "fr": "Le Bazar doré",
+        "de": "Gemälde „Goldbasar“",
+        "ja": "風景画:ゴールドバザー"
+      },
+      "extension": "ARR",
+      "area": "03",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "bb0be8af86c"
+    },
+    {
+      "id": 17092,
+      "type": "painting",
+      "name": {
+        "en": "Thal's Respite Painting",
+        "fr": "Le Sursis de Thal",
+        "de": "Gemälde „Thals Rast“",
+        "ja": "風景画:ザルの祠"
+      },
+      "extension": "ARR",
+      "area": "03",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "70412bcfc9a"
+    },
+    {
+      "id": 17093,
+      "type": "painting",
+      "name": {
+        "en": "Nald's Reflection Painting",
+        "fr": "La Thébaïde de Nald",
+        "de": "Gemälde „Nalds Besinnung“",
+        "ja": "風景画:ナルの祠"
+      },
+      "extension": "ARR",
+      "area": "03",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "a5e392721d3"
+    },
+    {
+      "id": 17094,
+      "type": "painting",
+      "name": {
+        "en": "Zahar'ak Painting",
+        "fr": "Zahar'ak",
+        "de": "Gemälde „Zahar'ak“",
+        "ja": "風景画:ザハラク戦陣"
+      },
+      "extension": "ARR",
+      "area": "03",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "2aa650681d8"
+    },
+    {
+      "id": 17095,
+      "type": "painting",
+      "name": {
+        "en": "Sagolii Desert Painting",
+        "fr": "La Foreuse de Byregot",
+        "de": "Gemälde „Byregots Schlag“",
+        "ja": "風景画:ビエルゴズ・ストライク"
+      },
+      "extension": "ARR",
+      "area": "03",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "7ebd950c74d"
+    },
+    {
+      "id": 17096,
+      "type": "painting",
+      "name": {
+        "en": "Sunken Temple of Qarn Painting",
+        "fr": "Le Temple enseveli de Qarn",
+        "de": "Gemälde „Versunkener Tempel von Qarn“",
+        "ja": "風景画:カルン埋没寺院"
+      },
+      "extension": "ARR",
+      "area": "03",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "659c2c03065"
+    },
+    {
+      "id": 17097,
+      "type": "painting",
+      "name": {
+        "en": "Minotaur Malm Painting",
+        "fr": "Le Malm du Minotaure",
+        "de": "Gemälde „Minotauren-Malm“",
+        "ja": "風景画:ミノタウロスマルム"
+      },
+      "extension": "ARR",
+      "area": "03",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "df98e9fe8cc"
+    },
+    {
+      "id": 17098,
+      "type": "painting",
+      "name": {
+        "en": "East Watchtower Painting",
+        "fr": "La tour de guet est",
+        "de": "Gemälde „Östlicher Wachturm“",
+        "ja": "風景画:東方監視塔"
+      },
+      "extension": "ARR",
+      "area": "03",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "090ed0c5c3a"
+    },
+    {
+      "id": 17099,
+      "type": "painting",
+      "name": {
+        "en": "Ceruleum Pipeline Painting",
+        "fr": "Les céruléoducs",
+        "de": "Gemälde „Erdseim-Leitung“",
+        "ja": "風景画:青燐水パイプライン"
+      },
+      "extension": "ARR",
+      "area": "03",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "23821c1f7ce"
+    },
+    {
+      "id": 17100,
+      "type": "painting",
+      "name": {
+        "en": "Bluefog Painting",
+        "fr": "Brumebleue",
+        "de": "Gemälde „Blauer Dunst“",
+        "ja": "風景画:ブルーフォグ"
+      },
+      "extension": "ARR",
+      "area": "03",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "1e9cac27e6c"
+    },
+    {
+      "id": 17101,
+      "type": "painting",
+      "name": {
+        "en": "Raubahn's Push Painting",
+        "fr": "La Poussée de Raubahn",
+        "de": "Gemälde „Raubahns Trutz“",
+        "ja": "風景画:ラウバーン緩衝地"
+      },
+      "extension": "ARR",
+      "area": "03",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "221b689c1fe"
+    },
+    {
+      "id": 17102,
+      "type": "painting",
+      "name": {
+        "en": "Abandoned Amajina Mythril Mine Painting",
+        "fr": "La mine de mithril abandonnée d'Amajina",
+        "de": "Gemälde „Verlassene Amajina-Mithrilmine“",
+        "ja": "風景画:アマジナ霊銀山跡"
+      },
+      "extension": "ARR",
+      "area": "03",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "6d7bf578ab2"
+    },
+    {
+      "id": 17126,
+      "type": "painting",
+      "name": {
+        "en": "Silver Bazaar Oil Painting",
+        "fr": "Le Bazar argenté (huile)",
+        "de": "Ölgemälde „Silberbasar“",
+        "ja": "油彩画:シルバーバザー"
+      },
+      "extension": "ARR",
+      "area": "03",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        }
+      ],
+      "lodestoneId": "af71a383b8f"
+    },
+    {
+      "id": 17127,
+      "type": "painting",
+      "name": {
+        "en": "Coffer & Coffin Oil Painting",
+        "fr": "Le Coffre et le Cercueil (huile)",
+        "de": "Ölgemälde „Würfel & Becher“",
+        "ja": "油彩画:コッファー＆コフィン"
+      },
+      "extension": "ARR",
+      "area": "03",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        }
+      ],
+      "lodestoneId": "42af8b2bb8d"
+    },
+    {
+      "id": 17128,
+      "type": "painting",
+      "name": {
+        "en": "Bonfire Watercolor Painting",
+        "fr": "Les Fumerolles (aquarelle)",
+        "de": "Aquarell „Der Feuerhügel“",
+        "ja": "水彩画:狼煙の丘"
+      },
+      "extension": "ARR",
+      "area": "03",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        }
+      ],
+      "lodestoneId": "da5be1c2bbf"
+    },
+    {
+      "id": 17129,
+      "type": "painting",
+      "name": {
+        "en": "Burgundy Falls Illustration",
+        "fr": "Le Mur incandescent (pochade)",
+        "de": "Illustration „Rothfall“",
+        "ja": "イラスト画:バーガンディ滝"
+      },
+      "extension": "ARR",
+      "area": "03",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        }
+      ],
+      "lodestoneId": "e5a9eb2a5a4"
+    },
+    {
+      "id": 17130,
+      "type": "painting",
+      "name": {
+        "en": "Sunken Temple of Qarn Oil Painting",
+        "fr": "Le Temple enseveli de Qarn (huile)",
+        "de": "Ölgemälde „Versunkener Tempel von Qarn“",
+        "ja": "油彩画:カルン埋没寺院"
+      },
+      "extension": "ARR",
+      "area": "03",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        }
+      ],
+      "lodestoneId": "ef88b0b99df"
+    },
+    {
+      "id": 17103,
+      "type": "painting",
+      "name": {
+        "en": "Nail Painting",
+        "fr": "L'Épée",
+        "de": "Gemälde „Der Schwertrücken“",
+        "ja": "風景画:剣ヶ峰"
+      },
+      "extension": "ARR",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "155cb240b55"
+    },
+    {
+      "id": 17104,
+      "type": "painting",
+      "name": {
+        "en": "Observatorium Painting",
+        "fr": "L'Observatoire",
+        "de": "Gemälde „Observatorium“",
+        "ja": "風景画:アドネール占星台"
+      },
+      "extension": "ARR",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "7814c171986"
+    },
+    {
+      "id": 17105,
+      "type": "painting",
+      "name": {
+        "en": "Frozen Fang Painting",
+        "fr": "Un cadavre de dragon",
+        "de": "Gemälde „Skelett des Drachen“",
+        "ja": "風景画:ドラゴン族の骸"
+      },
+      "extension": "ARR",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "f0be6295888"
+    },
+    {
+      "id": 17106,
+      "type": "painting",
+      "name": {
+        "en": "Holy See of Ishgard Painting",
+        "fr": "La sainte Cité d'Ishgard",
+        "de": "Gemälde „Ishgard“",
+        "ja": "風景画:皇都イシュガルド"
+      },
+      "extension": "ARR",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "740153509b7"
+    },
+    {
+      "id": 17107,
+      "type": "painting",
+      "name": {
+        "en": "Boulder Downs Painting",
+        "fr": "Les Coteaux rocheux",
+        "de": "Gemälde „Rothbruch“",
+        "ja": "風景画:巨石の丘"
+      },
+      "extension": "ARR",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "51fe898bfa0"
+    },
+    {
+      "id": 17108,
+      "type": "painting",
+      "name": {
+        "en": "Fury's Gaze Painting",
+        "fr": "L'Œil de la Conquérante",
+        "de": "Gemälde „Halone-Signum“",
+        "ja": "風景画:ハルオーネの秘石"
+      },
+      "extension": "ARR",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "9ed7bcfb86a"
+    },
+    {
+      "id": 17109,
+      "type": "painting",
+      "name": {
+        "en": "Snowcloak Painting",
+        "fr": "Manteneige",
+        "de": "Gemälde „Schneekleid“",
+        "ja": "風景画:スノークローク大氷壁"
+      },
+      "extension": "ARR",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "158f938e30d"
+    },
+    {
+      "id": 17110,
+      "type": "painting",
+      "name": {
+        "en": "Camp Dragonhead Painting",
+        "fr": "Le camp de la Tête du dragon",
+        "de": "Gemälde „Camp Drachenkopf“",
+        "ja": "風景画:キャンプ・ドラゴンヘッド"
+      },
+      "extension": "ARR",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "ad9e6692591"
+    },
+    {
+      "id": 17111,
+      "type": "painting",
+      "name": {
+        "en": "Steel Vigil Painting",
+        "fr": "Le Vigile d'Acier",
+        "de": "Gemälde „Stählerne Wacht“",
+        "ja": "風景画:スチールヴィジル"
+      },
+      "extension": "ARR",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "df1e645eb22"
+    },
+    {
+      "id": 17112,
+      "type": "painting",
+      "name": {
+        "en": "Castrum Centri Painting",
+        "fr": "Castrum Centri",
+        "de": "Gemälde „Castrum Centri“",
+        "ja": "風景画:カストルム・セントリ"
+      },
+      "extension": "ARR",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "c6a4506bcf4"
+    },
+    {
+      "id": 17113,
+      "type": "painting",
+      "name": {
+        "en": "Crystal Tower Painting",
+        "fr": "La Tour de Cristal",
+        "de": "Gemälde „Kristallturm“",
+        "ja": "風景画:クリスタルタワー"
+      },
+      "extension": "ARR",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "1294d5a739d"
+    },
+    {
+      "id": 17114,
+      "type": "painting",
+      "name": {
+        "en": "Rathefrost Painting",
+        "fr": "Hâtegel",
+        "de": "Gemälde „Früher Frost“",
+        "ja": "風景画:早霜峠"
+      },
+      "extension": "ARR",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "97e5d08d1e0"
+    },
+    {
+      "id": 17115,
+      "type": "painting",
+      "name": {
+        "en": "Keeper of the Lake Painting",
+        "fr": "Le Gardien du lac",
+        "de": "Gemälde „Hüter des Sees“",
+        "ja": "風景画:黙約の塔"
+      },
+      "extension": "ARR",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 929
+        }
+      ],
+      "lodestoneId": "516a3375ccf"
+    },
+    {
+      "id": 17131,
+      "type": "painting",
+      "name": {
+        "en": "Natalan Illustration",
+        "fr": "Natalan (pochade)",
+        "de": "Illustration „Natalan“",
+        "ja": "イラスト画:ナタラン入植地"
+      },
+      "extension": "ARR",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        }
+      ],
+      "lodestoneId": "8a949099899"
+    },
+    {
+      "id": 17132,
+      "type": "painting",
+      "name": {
+        "en": "Whitebrim Front Oil Painting",
+        "fr": "Le poste de L'Arête blanche (huile)",
+        "de": "Ölgemälde „Weißenfels-Front“",
+        "ja": "油彩画:ホワイトブリム前哨地"
+      },
+      "extension": "ARR",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        }
+      ],
+      "lodestoneId": "de8bd9c69ba"
+    },
+    {
+      "id": 17133,
+      "type": "painting",
+      "name": {
+        "en": "Crystal Tower Illustration",
+        "fr": "La Tour de Cristal (pochade)",
+        "de": "Illustration „Kristallturm“",
+        "ja": "イラスト画:クリスタルタワー"
+      },
+      "extension": "ARR",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        }
+      ],
+      "lodestoneId": "41529cd5df3"
+    },
+    {
+      "id": 17134,
+      "type": "painting",
+      "name": {
+        "en": "Tangle Oil Painting",
+        "fr": "L'Enchevêtrement (huile)",
+        "de": "Ölgemälde „Der Schlingwald“",
+        "ja": "油彩画:タングル湿林"
+      },
+      "extension": "ARR",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        }
+      ],
+      "lodestoneId": "fd735853cb1"
+    },
+    {
+      "id": 17135,
+      "type": "painting",
+      "name": {
+        "en": "Singing Shards Watercolor Painting",
+        "fr": "Pierrechantantes (aquarelle)",
+        "de": "Aquarell „Singende Scherben“",
+        "ja": "水彩画:唄う裂谷"
+      },
+      "extension": "ARR",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        }
+      ],
+      "lodestoneId": "b66539774ff"
+    },
+    {
+      "id": 21110,
+      "type": "painting",
+      "name": {
+        "en": "Falcon's Nest Painting",
+        "fr": "Le Nid du faucon",
+        "de": "Gemälde „Falkenhorst“",
+        "ja": "風景画:ファルコンネスト"
+      },
+      "extension": "HW",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "31279099a3b"
+    },
+    {
+      "id": 21111,
+      "type": "painting",
+      "name": {
+        "en": "Camp Riversmeet Painting",
+        "fr": "Le camp des Deux-Rivières",
+        "de": "Gemälde „Camp Zweistrom“",
+        "ja": "風景画:キャンプ・リバーズミート"
+      },
+      "extension": "HW",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "3be309cab1d"
+    },
+    {
+      "id": 21112,
+      "type": "painting",
+      "name": {
+        "en": "Dreaming Dragon Painting",
+        "fr": "L'île de Rêvedragon",
+        "de": "Gemälde „Träumender Drache“",
+        "ja": "風景画:臥竜島"
+      },
+      "extension": "HW",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "ef37b8a34f1"
+    },
+    {
+      "id": 21113,
+      "type": "painting",
+      "name": {
+        "en": "Dusk Vigil Painting",
+        "fr": "Le Vigile du Crépuscule",
+        "de": "Gemälde „Abendrot-Wacht“",
+        "ja": "風景画:ダスクヴィジル"
+      },
+      "extension": "HW",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "fd7c1376105"
+    },
+    {
+      "id": 21114,
+      "type": "painting",
+      "name": {
+        "en": "Gorgagne Mills Painting",
+        "fr": "Les bergeries de Gorgagne",
+        "de": "Gemälde „Gorgagne-Höfe“",
+        "ja": "風景画:ゴルガニュ牧場"
+      },
+      "extension": "HW",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "1ee960006df"
+    },
+    {
+      "id": 21115,
+      "type": "painting",
+      "name": {
+        "en": "Hemlock Painting",
+        "fr": "Les Pruches",
+        "de": "Gemälde „Tannenhöhe“",
+        "ja": "風景画:ヘムロック"
+      },
+      "extension": "HW",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "3544e0982ee"
+    },
+    {
+      "id": 21116,
+      "type": "painting",
+      "name": {
+        "en": "Bed of Bones Painting",
+        "fr": "Le Lit d'os",
+        "de": "Gemälde „Knochenfeld“",
+        "ja": "風景画:イエティの棲処"
+      },
+      "extension": "HW",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "a146879a59b"
+    },
+    {
+      "id": 21117,
+      "type": "painting",
+      "name": {
+        "en": "Pike Painting",
+        "fr": "La Pique",
+        "de": "Gemälde „Die Pike“",
+        "ja": "風景画:ハルドラス像"
+      },
+      "extension": "HW",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1386
+        }
+      ],
+      "lodestoneId": "e6d65763681"
+    },
+    {
+      "id": 21118,
+      "type": "painting",
+      "name": {
+        "en": "Black Iron Bridge Painting",
+        "fr": "Le pont du Fer noir",
+        "de": "Gemälde „Schwarzeisen-Brücke“",
+        "ja": "風景画:ブラックアイアン・ブリッジ"
+      },
+      "extension": "HW",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1386
+        }
+      ],
+      "lodestoneId": "c49d92f090f"
+    },
+    {
+      "id": 21119,
+      "type": "painting",
+      "name": {
+        "en": "Dragonspit Painting",
+        "fr": "Glaire-de-dragon",
+        "de": "Gemälde „Drachengeifer“",
+        "ja": "風景画:ドラゴンスピット"
+      },
+      "extension": "HW",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1386
+        }
+      ],
+      "lodestoneId": "6a35f54e86f"
+    },
+    {
+      "id": 21120,
+      "type": "painting",
+      "name": {
+        "en": "Slate Mountains Painting",
+        "fr": "Les monts d'Ardoise",
+        "de": "Gemälde „Schieferzinnen“",
+        "ja": "風景画:スレート連峰"
+      },
+      "extension": "HW",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1386
+        }
+      ],
+      "lodestoneId": "cefdab0a7f5"
+    },
+    {
+      "id": 21121,
+      "type": "painting",
+      "name": {
+        "en": "Loth ast Gnath Painting",
+        "fr": "Loth ast Gnath",
+        "de": "Gemälde „Loth ast Gnath“",
+        "ja": "風景画:グナースの塚"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "835508e5585"
+    },
+    {
+      "id": 21122,
+      "type": "painting",
+      "name": {
+        "en": "Anyx Minor Painting",
+        "fr": "Annexe Mineure",
+        "de": "Gemälde „Kleiner Annex“",
+        "ja": "風景画:不浄の集落"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "cab98350059"
+    },
+    {
+      "id": 21123,
+      "type": "painting",
+      "name": {
+        "en": "Anyx Trine Painting",
+        "fr": "Annexe Trine",
+        "de": "Gemälde „Trinär-Annex“",
+        "ja": "風景画:不浄の三塔"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "a36997ddbe9"
+    },
+    {
+      "id": 21124,
+      "type": "painting",
+      "name": {
+        "en": "Hundred Throes Painting",
+        "fr": "Les Cent Râles",
+        "de": "Gemälde „Hundertfacher Schrei“",
+        "ja": "風景画:悲嘆の飛泉"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "c342f722491"
+    },
+    {
+      "id": 21125,
+      "type": "painting",
+      "name": {
+        "en": "Halo Painting",
+        "fr": "Halo",
+        "de": "Gemälde „Halo“",
+        "ja": "風景画:光輪の祭壇"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "7d3833ac0f6"
+    },
+    {
+      "id": 21126,
+      "type": "painting",
+      "name": {
+        "en": "Tailfeather Painting",
+        "fr": "La Penne",
+        "de": "Gemälde „Fiederhag“",
+        "ja": "風景画:テイルフェザー"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "03d4c839706"
+    },
+    {
+      "id": 21127,
+      "type": "painting",
+      "name": {
+        "en": "Sohm Al Painting",
+        "fr": "Sohm Al",
+        "de": "Gemälde „Sohm Al“",
+        "ja": "風景画:ソーム・アル"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "70cbb3948ba"
+    },
+    {
+      "id": 21128,
+      "type": "painting",
+      "name": {
+        "en": "Arkhitekton Painting",
+        "fr": "L'Arkhitékton",
+        "de": "Gemälde „Arkhitekton“",
+        "ja": "風景画:大工房アーキテクトン"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "0fb67574dcb"
+    },
+    {
+      "id": 21129,
+      "type": "painting",
+      "name": {
+        "en": "Answering Quarter Painting",
+        "fr": "Le quartier académique",
+        "de": "Gemälde „Akademie-Viertel“",
+        "ja": "風景画:シャーレアン学士街"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "83a61ca7271"
+    },
+    {
+      "id": 21130,
+      "type": "painting",
+      "name": {
+        "en": "Cenotaph Painting",
+        "fr": "Le Cénotaphe",
+        "de": "Gemälde „Zenotaph“",
+        "ja": "風景画:セノタフ大石碑"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "2828d427675"
+    },
+    {
+      "id": 21131,
+      "type": "painting",
+      "name": {
+        "en": "Tipped Ewer Painting",
+        "fr": "L'Aiguière inclinée",
+        "de": "Gemälde „Kippender Krug“",
+        "ja": "風景画:知神の水瓶"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "d3125744b9f"
+    },
+    {
+      "id": 21132,
+      "type": "painting",
+      "name": {
+        "en": "Great Gubal Library Painting",
+        "fr": "La Grande bibliothèque de Gubal",
+        "de": "Gemälde „Große Gubal-Bibliothek“",
+        "ja": "風景画:グブラ幻想図書館"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "31c7108fd30"
+    },
+    {
+      "id": 21133,
+      "type": "painting",
+      "name": {
+        "en": "Orn Wild Painting",
+        "fr": "L'étendue d'Orn",
+        "de": "Gemälde „Orn-Busch“",
+        "ja": "風景画:オーン原生林"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "9e02427cee3"
+    },
+    {
+      "id": 21134,
+      "type": "painting",
+      "name": {
+        "en": "Saint Mocianne's Arboretum Painting",
+        "fr": "L'Arboretum Sainte-Mocianne",
+        "de": "Gemälde „Sankt Mocianne-Arboretum“",
+        "ja": "風景画:聖モシャーヌ植物園"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "eacfb60936b"
+    },
+    {
+      "id": 21135,
+      "type": "painting",
+      "name": {
+        "en": "Moghome Painting",
+        "fr": "Le Nid-Mog",
+        "de": "Gemälde „Moglingen“",
+        "ja": "風景画:モグモグホーム"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "25952b7c00c"
+    },
+    {
+      "id": 21136,
+      "type": "painting",
+      "name": {
+        "en": "Aery Painting",
+        "fr": "L'Aire",
+        "de": "Gemälde „Nest des Drachen“",
+        "ja": "風景画:ドラゴンズエアリー"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "0b1ae08a0a3"
+    },
+    {
+      "id": 21137,
+      "type": "painting",
+      "name": {
+        "en": "Tharl Oom Khash Painting",
+        "fr": "Tharl Oom Khash",
+        "de": "Gemälde „Tharl Oom Khash“",
+        "ja": "風景画:サルウーム・カシュ"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "82dfa6e109a"
+    },
+    {
+      "id": 21138,
+      "type": "painting",
+      "name": {
+        "en": "Zenith Painting",
+        "fr": "Zénith",
+        "de": "Gemälde „Kreidetempel“",
+        "ja": "風景画:白亜の宮殿"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "4d82ff1660e"
+    },
+    {
+      "id": 21139,
+      "type": "painting",
+      "name": {
+        "en": "Lost Landlord Painting",
+        "fr": "L'Isolé",
+        "de": "Gemälde „Der Verirrte Grundherr“",
+        "ja": "風景画:ランドロード像"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "b914fd47f90"
+    },
+    {
+      "id": 21140,
+      "type": "painting",
+      "name": {
+        "en": "House of Letters Painting",
+        "fr": "La Maison des lettreux",
+        "de": "Gemälde „Haus der Blätter“",
+        "ja": "風景画:手紙の家"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "05882ec7136"
+    },
+    {
+      "id": 21141,
+      "type": "painting",
+      "name": {
+        "en": "Rookery Painting",
+        "fr": "La Roquerie",
+        "de": "Gemälde „Drachen­korridor“",
+        "ja": "風景画:飛竜泊"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "604b83b6ed5"
+    },
+    {
+      "id": 21142,
+      "type": "painting",
+      "name": {
+        "en": "Whilom River Painting",
+        "fr": "La rivière Vairlame",
+        "de": "Gemälde „Der Weiland“",
+        "ja": "風景画:ウィロームリバー"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1386
+        }
+      ],
+      "lodestoneId": "4fcfe5c7256"
+    },
+    {
+      "id": 21143,
+      "type": "painting",
+      "name": {
+        "en": "Loth ast Vath Painting",
+        "fr": "Loth ast Vath",
+        "de": "Gemälde „Loth ast Vath“",
+        "ja": "風景画:ヴァスの塚"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1386
+        }
+      ],
+      "lodestoneId": "534c93899a1"
+    },
+    {
+      "id": 21144,
+      "type": "painting",
+      "name": {
+        "en": "Hissing Cobbles Painting",
+        "fr": "Les Pavés chuintants",
+        "de": "Gemälde „Knirschende Kiesel“",
+        "ja": "風景画:つつやき小道"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1386
+        }
+      ],
+      "lodestoneId": "e29ad5ba301"
+    },
+    {
+      "id": 21145,
+      "type": "painting",
+      "name": {
+        "en": "Danneroad Painting",
+        "fr": "La Danneroute",
+        "de": "Gemälde „Dannen-Weg“",
+        "ja": "風景画:ダンナー街道"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1386
+        }
+      ],
+      "lodestoneId": "a6fe49f1ecc"
+    },
+    {
+      "id": 21146,
+      "type": "painting",
+      "name": {
+        "en": "Sage's Cataract Painting",
+        "fr": "La cataracte de Thaliak",
+        "de": "Gemälde „Thaliaks Katarakt“",
+        "ja": "風景画:サリャク大滝"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1386
+        }
+      ],
+      "lodestoneId": "6da8cc705cc"
+    },
+    {
+      "id": 21147,
+      "type": "painting",
+      "name": {
+        "en": "Path of Knowing Painting",
+        "fr": "La voie du Savoir",
+        "de": "Gemälde „Pfad des Wissens“",
+        "ja": "風景画:碩学の道"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1386
+        }
+      ],
+      "lodestoneId": "47aa86fda87"
+    },
+    {
+      "id": 21148,
+      "type": "painting",
+      "name": {
+        "en": "Daggers Painting",
+        "fr": "Les Dagues",
+        "de": "Gemälde „Die Dolche“",
+        "ja": "風景画:ダガー石柱群"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1386
+        }
+      ],
+      "lodestoneId": "9bc3623e974"
+    },
+    {
+      "id": 21149,
+      "type": "painting",
+      "name": {
+        "en": "Statue of the Unsung Painting",
+        "fr": "Le dragon sans nom",
+        "de": "Gemälde „Der namenlose Drache“",
+        "ja": "風景画:名も無き竜の像"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1386
+        }
+      ],
+      "lodestoneId": "5e18c0829a4"
+    },
+    {
+      "id": 21150,
+      "type": "painting",
+      "name": {
+        "en": "Landlord Colony Painting",
+        "fr": "La colonie des Maîtres terriens",
+        "de": "Gemälde „Grundherren-Kolonie“",
+        "ja": "風景画:ランドロード遺構"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1386
+        }
+      ],
+      "lodestoneId": "a0d92af9151"
+    },
+    {
+      "id": 21151,
+      "type": "painting",
+      "name": {
+        "en": "Old Father Painting",
+        "fr": "Le Vieux-Père",
+        "de": "Gemälde „Einbaum“",
+        "ja": "風景画:いちばんの木"
+      },
+      "extension": "HW",
+      "area": "05",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1386
+        }
+      ],
+      "lodestoneId": "b65271873ff"
+    },
+    {
+      "id": 21152,
+      "type": "painting",
+      "name": {
+        "en": "Camp Cloudtop Painting",
+        "fr": "Le camp de Cime-des-nuages",
+        "de": "Gemälde „Camp Wolkenwipfel“",
+        "ja": "風景画:キャンプ・クラウドトップ"
+      },
+      "extension": "HW",
+      "area": "06",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "2cfb7ace083"
+    },
+    {
+      "id": 21153,
+      "type": "painting",
+      "name": {
+        "en": "Nidifice Painting",
+        "fr": "Le Nidifice",
+        "de": "Gemälde „Das Genist“",
+        "ja": "風景画:渡り鳥の営巣地"
+      },
+      "extension": "HW",
+      "area": "06",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "1d74d17813d"
+    },
+    {
+      "id": 21154,
+      "type": "painting",
+      "name": {
+        "en": "Voor Sian Siran Painting",
+        "fr": "Voor Sian Siran",
+        "de": "Gemälde „Voor Sian Siran“",
+        "ja": "風景画:ヴール・シアンシラン"
+      },
+      "extension": "HW",
+      "area": "06",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "c3d0e0a0a3d"
+    },
+    {
+      "id": 21155,
+      "type": "painting",
+      "name": {
+        "en": "Mok Oogl Island Painting",
+        "fr": "L'île Mok Oogl",
+        "de": "Gemälde „Mok Oogl“",
+        "ja": "風景画:モック・ウーグル島"
+      },
+      "extension": "HW",
+      "area": "06",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "c535b2317f8"
+    },
+    {
+      "id": 21156,
+      "type": "painting",
+      "name": {
+        "en": "Hall of the Fallen Plume Painting",
+        "fr": "La Maison de la Plume tombée",
+        "de": "Gemälde „Haus der Gefallenen Feder“",
+        "ja": "風景画:舞い降りた羽根の屋敷"
+      },
+      "extension": "HW",
+      "area": "06",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "bbd95e46582"
+    },
+    {
+      "id": 21157,
+      "type": "painting",
+      "name": {
+        "en": "Ok' Vundu Vana Painting",
+        "fr": "Ok' Vundu Vana",
+        "de": "Gemälde „Ok' Vundo Vana“",
+        "ja": "風景画:オク・ブンド・ヴァナ"
+      },
+      "extension": "HW",
+      "area": "06",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "536b836e8f1"
+    },
+    {
+      "id": 21158,
+      "type": "painting",
+      "name": {
+        "en": "Hengr's Crucible Painting",
+        "fr": "Le Creuset de Hengr",
+        "de": "Gemälde „Hengrs Schmelztiegel“",
+        "ja": "風景画:ヘネガの坩堝"
+      },
+      "extension": "HW",
+      "area": "06",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "3d026f00e90"
+    },
+    {
+      "id": 21159,
+      "type": "painting",
+      "name": {
+        "en": "Gration Painting",
+        "fr": "Le Gration",
+        "de": "Gemälde „Die Gration“",
+        "ja": "風景画:飛空戦艦グラティオン"
+      },
+      "extension": "HW",
+      "area": "06",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "5c21a158aa7"
+    },
+    {
+      "id": 21160,
+      "type": "painting",
+      "name": {
+        "en": "Fractal Continuum Painting",
+        "fr": "Le Continuum fractal",
+        "de": "Gemälde „Die Fraktal-Kontinuum“",
+        "ja": "風景画:フラクタル・コンティニアム"
+      },
+      "extension": "HW",
+      "area": "06",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "506d6d12b72"
+    },
+    {
+      "id": 21161,
+      "type": "painting",
+      "name": {
+        "en": "Antithesis Painting",
+        "fr": "Antithèse",
+        "de": "Gemälde „Antithese“",
+        "ja": "風景画:対偶の磔刑台"
+      },
+      "extension": "HW",
+      "area": "06",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "fa72f5fe88f"
+    },
+    {
+      "id": 21162,
+      "type": "painting",
+      "name": {
+        "en": "Aetherochemical Research Facility Painting",
+        "fr": "Le Laboratoire de magismologie",
+        "de": "Gemälde „Ätherochemisches For­schungs­labor“",
+        "ja": "風景画:魔科学研究所"
+      },
+      "extension": "HW",
+      "area": "06",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "828a0517178"
+    },
+    {
+      "id": 21163,
+      "type": "painting",
+      "name": {
+        "en": "Helix Painting",
+        "fr": "L'Hélice",
+        "de": "Gemälde „Helix“",
+        "ja": "風景画:ポート・ヘリックス"
+      },
+      "extension": "HW",
+      "area": "06",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "451a9694469"
+    },
+    {
+      "id": 21164,
+      "type": "painting",
+      "name": {
+        "en": "Quarantine Block Painting",
+        "fr": "Le bloc de quarantaine",
+        "de": "Gemälde „Quarantäne-Block“",
+        "ja": "風景画:隔離実験島"
+      },
+      "extension": "HW",
+      "area": "06",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "9386421a79f"
+    },
+    {
+      "id": 21165,
+      "type": "painting",
+      "name": {
+        "en": "Recombination Labs Painting",
+        "fr": "Le laboratoire de recombinaison",
+        "de": "Gemälde „Rekombinations-Sektor“",
+        "ja": "風景画:キメラ生成ラボ"
+      },
+      "extension": "HW",
+      "area": "06",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1312
+        }
+      ],
+      "lodestoneId": "5cfc2797e92"
+    },
+    {
+      "id": 21166,
+      "type": "painting",
+      "name": {
+        "en": "Coldwind Painting",
+        "fr": "Ventfroid",
+        "de": "Gemälde „Kaltwind“",
+        "ja": "風景画:コールドウィンド島"
+      },
+      "extension": "HW",
+      "area": "06",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1386
+        }
+      ],
+      "lodestoneId": "ef54fd0934e"
+    },
+    {
+      "id": 21167,
+      "type": "painting",
+      "name": {
+        "en": "Shattered Back Painting",
+        "fr": "Dos-brisé",
+        "de": "Gemälde „Der Gebrochene Rücken“",
+        "ja": "風景画:シャッタードバック"
+      },
+      "extension": "HW",
+      "area": "06",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1386
+        }
+      ],
+      "lodestoneId": "52722d22fad"
+    },
+    {
+      "id": 21168,
+      "type": "painting",
+      "name": {
+        "en": "Provenance Painting",
+        "fr": "Provenance",
+        "de": "Gemälde „Erste Wiege“",
+        "ja": "風景画:プロヴェナンス島"
+      },
+      "extension": "HW",
+      "area": "06",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1386
+        }
+      ],
+      "lodestoneId": "45faf17b355"
+    },
+    {
+      "id": 21169,
+      "type": "painting",
+      "name": {
+        "en": "Centrifugal Crystal Engine Painting",
+        "fr": "La turbine à cristaux",
+        "de": "Gemälde „Kristall-Zentrifugalreaktor“",
+        "ja": "風景画:クリスタル増殖炉"
+      },
+      "extension": "HW",
+      "area": "06",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1386
+        }
+      ],
+      "lodestoneId": "57373301487"
+    },
+    {
+      "id": 21170,
+      "type": "painting",
+      "name": {
+        "en": "Biomass Incubation Complex Painting",
+        "fr": "Le complexe d'incubation de masse",
+        "de": "Gemälde „Biomasse-Inkubator“",
+        "ja": "風景画:生体培養局"
+      },
+      "extension": "HW",
+      "area": "06",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1386
+        }
+      ],
+      "lodestoneId": "14e0ba836bb"
+    },
+    {
+      "id": 21171,
+      "type": "painting",
+      "name": {
+        "en": "Cathedral Painting",
+        "fr": "La Cathédrale",
+        "de": "Gemälde „Kathedrale“",
+        "ja": "風景画:古代のカテドラル"
+      },
+      "extension": "HW",
+      "area": "06",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1386
+        }
+      ],
+      "lodestoneId": "170bc4061ce"
+    },
+    {
+      "id": 20311,
+      "type": "painting",
+      "name": {
+        "en": "Castellum Velodyna Painting",
+        "fr": "Castellum Velodyna",
+        "de": "Gemälde „Castellum Velodyna“",
+        "ja": "風景画:カステッルム・ベロジナ"
+      },
+      "extension": "SB",
+      "area": "07",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "076226d5c89"
+    },
+    {
+      "id": 20312,
+      "type": "painting",
+      "name": {
+        "en": "Gyr Kehim Painting",
+        "fr": "Gyr Kehim",
+        "de": "Gemälde „Gyr Kehim“",
+        "ja": "風景画:ギルケヒム僧園"
+      },
+      "extension": "SB",
+      "area": "07",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "115abadeb67"
+    },
+    {
+      "id": 20313,
+      "type": "painting",
+      "name": {
+        "en": "Schism Painting",
+        "fr": "Le Schisme",
+        "de": "Gemälde „Schisma“",
+        "ja": "風景画:スキズム開山堂"
+      },
+      "extension": "SB",
+      "area": "07",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "2b5620414cb"
+    },
+    {
+      "id": 20314,
+      "type": "painting",
+      "name": {
+        "en": "Castrum Oriens Painting",
+        "fr": "Castrum Oriens",
+        "de": "Gemälde „Castrum Oriens“",
+        "ja": "風景画:カストルム・オリエンス"
+      },
+      "extension": "SB",
+      "area": "07",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "c43e09bf9b5"
+    },
+    {
+      "id": 20315,
+      "type": "painting",
+      "name": {
+        "en": "Dimwold Painting",
+        "fr": "Ternebois",
+        "de": "Gemälde „Dysterwaldt“",
+        "ja": "風景画:夜の森"
+      },
+      "extension": "SB",
+      "area": "07",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "d3a5e35c86e"
+    },
+    {
+      "id": 20316,
+      "type": "painting",
+      "name": {
+        "en": "Djanan Qhat Painting",
+        "fr": "Djanan Qhat",
+        "de": "Gemälde „Djanan Qhat“",
+        "ja": "風景画:ジャナン・カット"
+      },
+      "extension": "SB",
+      "area": "07",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "ff4a4dcf24d"
+    },
+    {
+      "id": 20317,
+      "type": "painting",
+      "name": {
+        "en": "Peering Stones Painting",
+        "fr": "Les Rochers d'aguet",
+        "de": "Gemälde „Die Spähenden Steine“",
+        "ja": "風景画:ピーリングストーンズ"
+      },
+      "extension": "SB",
+      "area": "07",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "4e08e1d4cd3"
+    },
+    {
+      "id": 20318,
+      "type": "painting",
+      "name": {
+        "en": "Hidden Tear Painting",
+        "fr": "Pleur caché",
+        "de": "Gemälde „Verborgene Tränen“",
+        "ja": "風景画:涙隠しの丘"
+      },
+      "extension": "SB",
+      "area": "07",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "2c2e1245bf7"
+    },
+    {
+      "id": 20319,
+      "type": "painting",
+      "name": {
+        "en": "Coldhearth Painting",
+        "fr": "Âtrefroid",
+        "de": "Gemälde „Kaltherd“",
+        "ja": "風景画:コールドハース"
+      },
+      "extension": "SB",
+      "area": "07",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "fd4ede74b98"
+    },
+    {
+      "id": 20320,
+      "type": "painting",
+      "name": {
+        "en": "Nyunkrepf's Hope Painting",
+        "fr": "Le Secours de Nyunkrepf",
+        "de": "Gemälde „Nyunkrepfs Rettung“",
+        "ja": "風景画:ニュンクレフの箱舟"
+      },
+      "extension": "SB",
+      "area": "07",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "f3651ff14fc"
+    },
+    {
+      "id": 20321,
+      "type": "painting",
+      "name": {
+        "en": "Ala Gannha Painting",
+        "fr": "Ala Gannha",
+        "de": "Gemälde „Ala Gannha“",
+        "ja": "風景画:アラガーナ"
+      },
+      "extension": "SB",
+      "area": "07",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "a8be0ba61ea"
+    },
+    {
+      "id": 20322,
+      "type": "painting",
+      "name": {
+        "en": "Specula Imperatoris Painting",
+        "fr": "Specula Imperatoris",
+        "de": "Gemälde „Specula Imperatoris“",
+        "ja": "風景画:スペキュラ・インペラトリス"
+      },
+      "extension": "SB",
+      "area": "07",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "18607c7715e"
+    },
+    {
+      "id": 20323,
+      "type": "painting",
+      "name": {
+        "en": "Arms of Meed Painting",
+        "fr": "Les Bras du rachat",
+        "de": "Gemälde „Baum der Buße“",
+        "ja": "風景画:アームズ・オブ・ミード"
+      },
+      "extension": "SB",
+      "area": "07",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "eccf6623963"
+    },
+    {
+      "id": 20324,
+      "type": "painting",
+      "name": {
+        "en": "Ziggurat Painting",
+        "fr": "La Ziggourat",
+        "de": "Gemälde „Zikkurat“",
+        "ja": "風景画:赤のジグラート"
+      },
+      "extension": "SB",
+      "area": "07",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "ceaa833d4e8"
+    },
+    {
+      "id": 20325,
+      "type": "painting",
+      "name": {
+        "en": "Emprise Painting",
+        "fr": "L'Emprise",
+        "de": "Gemälde „Aufbruch“",
+        "ja": "風景画:旅立ちの回廊"
+      },
+      "extension": "SB",
+      "area": "07",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "8c9d6840365"
+    },
+    {
+      "id": 20326,
+      "type": "painting",
+      "name": {
+        "en": "Ala Mhigo Painting",
+        "fr": "Ala Mhigo, la cité-forteresse",
+        "de": "Gemälde „Ala Mhigo“",
+        "ja": "風景画:城塞都市アラミゴ"
+      },
+      "extension": "SB",
+      "area": "07",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "b314cdc6e37"
+    },
+    {
+      "id": 20327,
+      "type": "painting",
+      "name": {
+        "en": "Ala Mhigan Quarter Painting",
+        "fr": "Le Faubourg mhigois",
+        "de": "Gemälde „Mhigisches Wohn­viertel“",
+        "ja": "風景画:アラミガン・クォーター"
+      },
+      "extension": "SB",
+      "area": "07",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "cd889e15ff1"
+    },
+    {
+      "id": 20328,
+      "type": "painting",
+      "name": {
+        "en": "Sothwatch Painting",
+        "fr": "Gardesud",
+        "de": "Gemälde „Sudwacht“",
+        "ja": "風景画:ソスウォッチ塔"
+      },
+      "extension": "SB",
+      "area": "07",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "b892f018d1b"
+    },
+    {
+      "id": 20329,
+      "type": "painting",
+      "name": {
+        "en": "Divine Audience Painting",
+        "fr": "L'Audience divine",
+        "de": "Gemälde „Platz der Verehrung“",
+        "ja": "風景画:聖なる礼拝台"
+      },
+      "extension": "SB",
+      "area": "07",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "71745ee9a81"
+    },
+    {
+      "id": 20330,
+      "type": "painting",
+      "name": {
+        "en": "Hidden Tunnel Painting",
+        "fr": "Les canaux souterrains",
+        "de": "Gemälde „Kanalisation“",
+        "ja": "風景画:地下水路"
+      },
+      "extension": "SB",
+      "area": "07",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "2850aa2c147"
+    },
+    {
+      "id": 20331,
+      "type": "painting",
+      "name": {
+        "en": "Porta Praetoria Painting",
+        "fr": "Porta Praetoria",
+        "de": "Gemälde „Porta Praetoria“",
+        "ja": "風景画:ポルタ・プレトリア"
+      },
+      "extension": "SB",
+      "area": "07",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "4eab627babd"
+    },
+    {
+      "id": 21885,
+      "type": "painting",
+      "name": {
+        "en": "The Destroyer Oil Painting",
+        "fr": "La statue du Destructeur (huile)",
+        "de": "Ölgemälde „Der Zerstörer“",
+        "ja": "油彩画:壊神ラールガー像"
+      },
+      "extension": "SB",
+      "area": "07",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1965
+        }
+      ],
+      "lodestoneId": "ee53ad17ac1"
+    },
+    {
+      "id": 21886,
+      "type": "painting",
+      "name": {
+        "en": "Bloodstorm Oil Painting",
+        "fr": "La Tempête de sang (huile)",
+        "de": "Ölgemälde „Blutsturm“",
+        "ja": "油彩画:血嵐の訓戒"
+      },
+      "extension": "SB",
+      "area": "07",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1965
+        }
+      ],
+      "lodestoneId": "e5b55b36cc8"
+    },
+    {
+      "id": 21887,
+      "type": "painting",
+      "name": {
+        "en": "Yawn Oil Painting",
+        "fr": "Le Bâillement (huile)",
+        "de": "Ölgemälde „Gähnender Schlund“",
+        "ja": "油彩画:ヤーンの大穴"
+      },
+      "extension": "SB",
+      "area": "07",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1965
+        }
+      ],
+      "lodestoneId": "60e46781e4e"
+    },
+    {
+      "id": 21888,
+      "type": "painting",
+      "name": {
+        "en": "Ala Ghiri Oil Painting",
+        "fr": "Ala Ghiri (huile)",
+        "de": "Ölgemälde „Ala Ghiri“",
+        "ja": "油彩画:アラギリ"
+      },
+      "extension": "SB",
+      "area": "07",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1965
+        }
+      ],
+      "lodestoneId": "23e2c7f3518"
+    },
+    {
+      "id": 21889,
+      "type": "painting",
+      "name": {
+        "en": "Specula Imperatoris #2 Oil Painting",
+        "fr": "Specula Imperatoris [2] (huile)",
+        "de": "Ölgemälde „Specula Imperatoris II“",
+        "ja": "油彩画:スペキュラ・インペラトリス:その2"
+      },
+      "extension": "SB",
+      "area": "07",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1965
+        }
+      ],
+      "lodestoneId": "19e13c9acb3"
+    },
+    {
+      "id": 21890,
+      "type": "painting",
+      "name": {
+        "en": "The Sunken Destroyer Oil Painting",
+        "fr": "La statue engloutie du Destructeur (huile)",
+        "de": "Ölgemälde „Der Versunkene Zerstörer“",
+        "ja": "油彩画:水没した壊神ラールガー像"
+      },
+      "extension": "SB",
+      "area": "07",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1965
+        }
+      ],
+      "lodestoneId": "c3f498adf23"
+    },
+    {
+      "id": 21891,
+      "type": "painting",
+      "name": {
+        "en": "Ala Mhigan Quarter #2 Oil Painting",
+        "fr": "Le Faubourg mhigois [2] (huile)",
+        "de": "Ölgemälde „Mhigisches Wohn­viertel II“",
+        "ja": "油彩画:アラミガン・クォーター:その2"
+      },
+      "extension": "SB",
+      "area": "07",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1965
+        }
+      ],
+      "lodestoneId": "39c4eb913da"
+    },
+    {
+      "id": 20332,
+      "type": "painting",
+      "name": {
+        "en": "Sekiseigumi Barracks Painting",
+        "fr": "La caserne du Sekiseigumi",
+        "de": "Gemälde „Sekiseigumi-Quartier“",
+        "ja": "風景画:赤誠組屯所前"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "5b8e570c630"
+    },
+    {
+      "id": 20333,
+      "type": "painting",
+      "name": {
+        "en": "Bokairo Inn Painting",
+        "fr": "L'auberge du Bokairo",
+        "de": "Gemälde „Badehaus Bokairo“",
+        "ja": "風景画:望海楼"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "49504fe0636"
+    },
+    {
+      "id": 20334,
+      "type": "painting",
+      "name": {
+        "en": "Kogane Dori Painting",
+        "fr": "Kogane-dori",
+        "de": "Gemälde „Kogane-dori“",
+        "ja": "風景画:小金通り"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "de179f52ad3"
+    },
+    {
+      "id": 20335,
+      "type": "painting",
+      "name": {
+        "en": "Kogane Alleyways Painting",
+        "fr": "Ruelles de Kogane-dori",
+        "de": "Gemälde „Gassen von Kogane“",
+        "ja": "風景画:小金の裏通り"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "1af7a2c4e33"
+    },
+    {
+      "id": 20336,
+      "type": "painting",
+      "name": {
+        "en": "Shiokaze Hostelry Painting",
+        "fr": "L'auberge du Shiokaze",
+        "de": "Gemälde „Gasthaus Shiokaze“",
+        "ja": "風景画:潮風亭"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "3cccb9b285e"
+    },
+    {
+      "id": 20337,
+      "type": "painting",
+      "name": {
+        "en": "Tamamizu Painting",
+        "fr": "Tamamizu",
+        "de": "Gemälde „Tamamizu“",
+        "ja": "風景画:碧のタマミズ"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "4cbed0bc70d"
+    },
+    {
+      "id": 20338,
+      "type": "painting",
+      "name": {
+        "en": "Shoal Rock Painting",
+        "fr": "Okinoiwa",
+        "de": "Gemälde „Seichtfels“",
+        "ja": "風景画:沖之岩"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "a44c2c9b6dc"
+    },
+    {
+      "id": 20339,
+      "type": "painting",
+      "name": {
+        "en": "Heaven-on-High Painting",
+        "fr": "Le Pilier des Cieux",
+        "de": "Gemälde „Himmelssäule“",
+        "ja": "風景画:アメノミハシラ"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "7f868084a90"
+    },
+    {
+      "id": 20340,
+      "type": "painting",
+      "name": {
+        "en": "Sakazuki Painting",
+        "fr": "Sakazuki",
+        "de": "Gemälde „Sakazuki“",
+        "ja": "風景画:サカズキ島"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "0c6cb2f25f7"
+    },
+    {
+      "id": 20341,
+      "type": "painting",
+      "name": {
+        "en": "Isle of Zekki Painting",
+        "fr": "L'île de Zekki",
+        "de": "Gemälde „Zekki“",
+        "ja": "風景画:ゼッキ島"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "db060f7fd89"
+    },
+    {
+      "id": 20342,
+      "type": "painting",
+      "name": {
+        "en": "Isari Painting",
+        "fr": "Isari",
+        "de": "Gemälde „Isari“",
+        "ja": "風景画:イサリ村"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "09903e72157"
+    },
+    {
+      "id": 20343,
+      "type": "painting",
+      "name": {
+        "en": "Swallow's Compass Painting",
+        "fr": "Le Compas de l'Hirondelle",
+        "de": "Gemälde „Kompass der Schwalbe“",
+        "ja": "風景画:ガンエン廟"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "53c1b27a5ab"
+    },
+    {
+      "id": 20344,
+      "type": "painting",
+      "name": {
+        "en": "Castrum Fluminis Painting",
+        "fr": "Castrum Fluminis",
+        "de": "Gemälde „Castrum Fluminis“",
+        "ja": "風景画:カストルム・フルーミニス"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "d49f8b1ff42"
+    },
+    {
+      "id": 20345,
+      "type": "painting",
+      "name": {
+        "en": "Namai Painting",
+        "fr": "Namai",
+        "de": "Gemälde „Namai“",
+        "ja": "風景画:ナマイ村"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "396bcd7140f"
+    },
+    {
+      "id": 20346,
+      "type": "painting",
+      "name": {
+        "en": "Prism Lake Painting",
+        "fr": "Le lac aux Prismes",
+        "de": "Gemälde „Prismenweiher“",
+        "ja": "風景画:七彩溝"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "4417a12ea39"
+    },
+    {
+      "id": 20347,
+      "type": "painting",
+      "name": {
+        "en": "Doma Castle Painting",
+        "fr": "Le Château de Doma",
+        "de": "Gemälde „Burg Doma“",
+        "ja": "風景画:ドマ城"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "368f464b92a"
+    },
+    {
+      "id": 20348,
+      "type": "painting",
+      "name": {
+        "en": "Dairyu Moon Gates Painting",
+        "fr": "Les portes lune de Dairyu",
+        "de": "Gemälde „Dairyu-Mondtor“",
+        "ja": "風景画:大龍月亮門"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "4dda5b5643f"
+    },
+    {
+      "id": 20349,
+      "type": "painting",
+      "name": {
+        "en": "Yuzuka Manor Painting",
+        "fr": "Le manoir des Yuzuka",
+        "de": "Gemälde „Yuzuka-Herrenhaus“",
+        "ja": "風景画:ユヅカ代官屋敷"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "934a7107909"
+    },
+    {
+      "id": 20350,
+      "type": "painting",
+      "name": {
+        "en": "Ceol Aen Painting",
+        "fr": "Ceol Aen",
+        "de": "Gemälde „Ceol Aen“",
+        "ja": "風景画:キオルエン"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "078dbb2c252"
+    },
+    {
+      "id": 20351,
+      "type": "painting",
+      "name": {
+        "en": "Dotharl Khaa Painting",
+        "fr": "Dotharl Khaa",
+        "de": "Gemälde „Dotharl Khaa“",
+        "ja": "風景画:ドタール・カー"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "7cfff0711cf"
+    },
+    {
+      "id": 20352,
+      "type": "painting",
+      "name": {
+        "en": "Dusk Throne Painting",
+        "fr": "Le Trône du Crépuscule",
+        "de": "Gemälde „Abendthron“",
+        "ja": "風景画:暮れの玉座"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "8bde6d49f6b"
+    },
+    {
+      "id": 20353,
+      "type": "painting",
+      "name": {
+        "en": "Reunion Painting",
+        "fr": "Le Ralliement",
+        "de": "Gemälde „Reunion“",
+        "ja": "風景画:再会の市"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "14b290ebb66"
+    },
+    {
+      "id": 20354,
+      "type": "painting",
+      "name": {
+        "en": "Chakha Zoh Painting",
+        "fr": "Chakha Zoh",
+        "de": "Gemälde „Chakha Zoh“",
+        "ja": "風景画:チャカ・ゾー"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "eeb024312c7"
+    },
+    {
+      "id": 20355,
+      "type": "painting",
+      "name": {
+        "en": "Dawn Throne Painting",
+        "fr": "Le Trône de l'Aube",
+        "de": "Gemälde „Morgenthron“",
+        "ja": "風景画:明けの玉座"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1903
+        }
+      ],
+      "lodestoneId": "c6abd9cb42e"
+    },
+    {
+      "id": 21892,
+      "type": "painting",
+      "name": {
+        "en": "Statue of Zuiko Oil Painting",
+        "fr": "La statue de Zuiko (huile)",
+        "de": "Ölgemälde „Zuiko-Statue“",
+        "ja": "油彩画:ズイコウ像"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1965
+        }
+      ],
+      "lodestoneId": "fda06c41821"
+    },
+    {
+      "id": 21893,
+      "type": "painting",
+      "name": {
+        "en": "Rakuza District Oil Painting",
+        "fr": "Le quartier de Rakuza (huile)",
+        "de": "Ölgemälde „Rakuza-Bezirk“",
+        "ja": "油彩画:楽座街"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1965
+        }
+      ],
+      "lodestoneId": "b4241375709"
+    },
+    {
+      "id": 21894,
+      "type": "painting",
+      "name": {
+        "en": "Tenkonto Oil Painting",
+        "fr": "La place Tenkonto (huile)",
+        "de": "Ölgemälde „Tenkonto“",
+        "ja": "油彩画:転魂塔広場"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1965
+        }
+      ],
+      "lodestoneId": "823cabc8f5e"
+    },
+    {
+      "id": 21895,
+      "type": "painting",
+      "name": {
+        "en": "Kugane Ofunakura Oil Painting",
+        "fr": "Kugane Ofunakura (huile)",
+        "de": "Ölgemälde „Kugane Ofunakura“",
+        "ja": "油彩画:クガネ御船蔵"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1965
+        }
+      ],
+      "lodestoneId": "d4b58096ab7"
+    },
+    {
+      "id": 21896,
+      "type": "painting",
+      "name": {
+        "en": "Shisui of The Violet Tides Oil Painting",
+        "fr": "Le Palais aux Marées violettes (huile)",
+        "de": "Ölgemälde „Shisui-Palast“",
+        "ja": "油彩画:紫水宮"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1965
+        }
+      ],
+      "lodestoneId": "1d21dd10a34"
+    },
+    {
+      "id": 21897,
+      "type": "painting",
+      "name": {
+        "en": "East Othard Coastline Oil Painting",
+        "fr": "La côte orientale d'Othard (huile)",
+        "de": "Ölgemälde „Ostküste Othards“",
+        "ja": "油彩画:オサード小大陸東岸"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1965
+        }
+      ],
+      "lodestoneId": "dfbf67a95eb"
+    },
+    {
+      "id": 21898,
+      "type": "painting",
+      "name": {
+        "en": "Crick Oil Painting",
+        "fr": "L'Entorse (huile)",
+        "de": "Ölgemälde „Halskehre“",
+        "ja": "油彩画:筋違砦"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1965
+        }
+      ],
+      "lodestoneId": "38b05966b73"
+    },
+    {
+      "id": 21899,
+      "type": "painting",
+      "name": {
+        "en": "Imperial Hypersonic Assault Craft L-XXIII Oil Painting",
+        "fr": "Le contre-torpilleur hypersonique impérial L-XXIII (huile)",
+        "de": "Ölgemälde „Überschall-Angriffsvehikel L-XXIII“",
+        "ja": "油彩画:高速魔導駆逐艦L－XXIII"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1965
+        }
+      ],
+      "lodestoneId": "c493203bd60"
+    },
+    {
+      "id": 21900,
+      "type": "painting",
+      "name": {
+        "en": "Mol Iloh Oil Painting",
+        "fr": "Mol Iloh (huile)",
+        "de": "Ölgemälde „Mol Iloh“",
+        "ja": "油彩画:モル・イロー"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1965
+        }
+      ],
+      "lodestoneId": "4c0c2856604"
+    },
+    {
+      "id": 21901,
+      "type": "painting",
+      "name": {
+        "en": "Moai Statue Oil Painting",
+        "fr": "La statue de moai (huile)",
+        "de": "Ölgemälde „Moai-Statue“",
+        "ja": "油彩画:モアイ像"
+      },
+      "extension": "SB",
+      "area": "08",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 1965
+        }
+      ],
+      "lodestoneId": "6b4f5ab0577"
+    },
+    {
+      "id": 28663,
+      "type": "painting",
+      "name": {
+        "en": "Painting of the Rotunda",
+        "fr": "La Rotonde",
+        "de": "Gemälde „Die Rotunde“",
+        "ja": "風景画:円蓋の座"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "02e72a2401d"
+    },
+    {
+      "id": 28664,
+      "type": "painting",
+      "name": {
+        "en": "Painting of Musica Universalis",
+        "fr": "Musica Universalis",
+        "de": "Gemälde „Musica Universalis“",
+        "ja": "風景画:ムジカ・ユニバーサリス"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "89d2b11d22e"
+    },
+    {
+      "id": 28665,
+      "type": "painting",
+      "name": {
+        "en": "Painting of the Cabinet of Curiosity",
+        "fr": "Le cabinet de curiosités",
+        "de": "Gemälde „Kabinett der Kuriositäten“",
+        "ja": "風景画:博物陳列館"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "22f3f67ea5b"
+    },
+    {
+      "id": 28666,
+      "type": "painting",
+      "name": {
+        "en": "Painting of Rapture",
+        "fr": "Les Tours du Ravissement",
+        "de": "Gemälde „Türme der Besserung“",
+        "ja": "風景画:ラプチャー円塔群"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "f269b1ab54d"
+    },
+    {
+      "id": 28667,
+      "type": "painting",
+      "name": {
+        "en": "Painting of Temenos Rookery",
+        "fr": "La Couvée de Temenos",
+        "de": "Gemälde „Tierhof Temenos“",
+        "ja": "風景画:テメノスルカリー牧場"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "8fc77cd7841"
+    },
+    {
+      "id": 28668,
+      "type": "painting",
+      "name": {
+        "en": "Painting of the Glory Gate",
+        "fr": "La porte de la Gloire",
+        "de": "Gemälde „Tor der Herrlichkeit“",
+        "ja": "風景画:栄光の門"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "9736409577a"
+    },
+    {
+      "id": 28669,
+      "type": "painting",
+      "name": {
+        "en": "Painting of the Derelicts",
+        "fr": "La Fange",
+        "de": "Gemälde „Wrackstadt“",
+        "ja": "風景画:廃船街"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "44e3092d9b9"
+    },
+    {
+      "id": 28670,
+      "type": "painting",
+      "name": {
+        "en": "Painting of the Eulmoran Army Headquarters",
+        "fr": "Les quartiers généraux eulmoriens",
+        "de": "Gemälde „Hauptquartier der Hochrühmlichen Armee von Eulmore“",
+        "ja": "風景画:ユールモア軍司令本部"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "0c30ed780df"
+    },
+    {
+      "id": 28671,
+      "type": "painting",
+      "name": {
+        "en": "Painting of the Beehive",
+        "fr": "La Ruche",
+        "de": "Gemälde „Lustspielhaus Bienenstock“",
+        "ja": "風景画:キャバレー・ビーハイヴ"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "8e1718eaff8"
+    },
+    {
+      "id": 28672,
+      "type": "painting",
+      "name": {
+        "en": "Painting of Fort Jobb",
+        "fr": "Fort Jobb",
+        "de": "Gemälde „Jobb-Feste“",
+        "ja": "風景画:ジョッブ砦"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "d90cf62bee2"
+    },
+    {
+      "id": 28673,
+      "type": "painting",
+      "name": {
+        "en": "Painting of Radisca's Round",
+        "fr": "La Garde de Radisca",
+        "de": "Gemälde „Radiscas Rundturm“",
+        "ja": "風景画:ラディスカ物見塔"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "61d93ecd976"
+    },
+    {
+      "id": 28674,
+      "type": "painting",
+      "name": {
+        "en": "Painting of Laxan Loft",
+        "fr": "Le château de Ganlag",
+        "de": "Gemälde „Burg Selard“",
+        "ja": "風景画:ラクサン城"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "594d40d9e1f"
+    },
+    {
+      "id": 28675,
+      "type": "painting",
+      "name": {
+        "en": "Painting of the Ostall Imperative",
+        "fr": "L'Impératif d'Ostall",
+        "de": "Gemälde „Ostalls Befehl“",
+        "ja": "風景画:オスタル厳命城"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "1a0c7750580"
+    },
+    {
+      "id": 28676,
+      "type": "painting",
+      "name": {
+        "en": "Painting of the Hour of Certain Durance",
+        "fr": "Suppliciante",
+        "de": "Gemälde „Kerkerplatte“",
+        "ja": "風景画:責苦の監獄"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "f5dd5668a3e"
+    },
+    {
+      "id": 28677,
+      "type": "painting",
+      "name": {
+        "en": "Painting of Sullen",
+        "fr": "Maussade",
+        "de": "Gemälde „Grantel“",
+        "ja": "風景画:サレン郷"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "92ee7e34004"
+    },
+    {
+      "id": 28678,
+      "type": "painting",
+      "name": {
+        "en": "Painting of Cracked Shell Beach",
+        "fr": "La plage des Coquilles brisées",
+        "de": "Gemälde „Splittermuschelstrand“",
+        "ja": "風景画:クラックシェル海岸"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "e58a13f0a0b"
+    },
+    {
+      "id": 28679,
+      "type": "painting",
+      "name": {
+        "en": "Painting of White Oil Falls",
+        "fr": "La chute de l'Huile blanche",
+        "de": "Gemälde „Weißölfälle“",
+        "ja": "風景画:ホワイトオイルフォールズ"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "a0b849809d6"
+    },
+    {
+      "id": 28680,
+      "type": "painting",
+      "name": {
+        "en": "Painting of Gatetown",
+        "fr": "Le Vestibule",
+        "de": "Gemälde „Torstadt“",
+        "ja": "風景画:ゲートタウン"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "a1478f28374"
+    },
+    {
+      "id": 28681,
+      "type": "painting",
+      "name": {
+        "en": "Painting of Wright",
+        "fr": "Cherpant",
+        "de": "Gemälde „Werfting“",
+        "ja": "風景画:ライト村"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "d5eb29123ea"
+    },
+    {
+      "id": 28682,
+      "type": "painting",
+      "name": {
+        "en": "Painting of the Ladder",
+        "fr": "L'Échelle",
+        "de": "Gemälde „Die Leiter“",
+        "ja": "風景画:ラダー大昇降機"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "dd74ee8ea01"
+    },
+    {
+      "id": 28683,
+      "type": "painting",
+      "name": {
+        "en": "Painting of Tomra",
+        "fr": "Tomra",
+        "de": "Gemälde „Tomra“",
+        "ja": "風景画:トメラの村"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "927ac9e32e7"
+    },
+    {
+      "id": 28684,
+      "type": "painting",
+      "name": {
+        "en": "Painting of the Duergar's Tewel",
+        "fr": "Le Trou du Duergar",
+        "de": "Gemälde „Duergars Schlot“",
+        "ja": "風景画:ドヴェルグの煙突"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "d4d2b8bacf2"
+    },
+    {
+      "id": 28685,
+      "type": "painting",
+      "name": {
+        "en": "Painting of the Red Serai",
+        "fr": "Le Caravansérail rouge",
+        "de": "Gemälde „Roter Karawanenhof“",
+        "ja": "風景画:隊商の野営地"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "c2eafaaddc2"
+    },
+    {
+      "id": 28686,
+      "type": "painting",
+      "name": {
+        "en": "Painting of Mord Souq",
+        "fr": "Mord Souq",
+        "de": "Gemälde „Mordh Souq“",
+        "ja": "風景画:モルド・スーク"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "9d19978b4b2"
+    },
+    {
+      "id": 28687,
+      "type": "painting",
+      "name": {
+        "en": "Painting of the Pristine Palace of Amh Malik",
+        "fr": "Le nouveau palais d'Amh Malik",
+        "de": "Gemälde „Palast von Amh Malik“",
+        "ja": "風景画:アム・マリク新宮殿"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "17dbcd7d715"
+    },
+    {
+      "id": 28688,
+      "type": "painting",
+      "name": {
+        "en": "Painting of Mount Biran Mines",
+        "fr": "Les Grandes mines de Biran",
+        "de": "Gemälde „Biran-Mine“",
+        "ja": "風景画:ビラン大鉱山"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "04f49f2be04"
+    },
+    {
+      "id": 28689,
+      "type": "painting",
+      "name": {
+        "en": "Painting of Twine",
+        "fr": "Queues-liées",
+        "de": "Gemälde „Pfotenschlag“",
+        "ja": "風景画:トゥワイン"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "8402620df37"
+    },
+    {
+      "id": 28690,
+      "type": "painting",
+      "name": {
+        "en": "Painting of Kelk",
+        "fr": "Les ruines de Kelk",
+        "de": "Gemälde „Kelk“",
+        "ja": "風景画:ケルク遺跡"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "818383782f9"
+    },
+    {
+      "id": 28691,
+      "type": "painting",
+      "name": {
+        "en": "Painting of Lydha Lran",
+        "fr": "Lydha Lran",
+        "de": "Gemälde „Lydha Lran“",
+        "ja": "風景画:リダ・ラーン"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "6a4daef21ae"
+    },
+    {
+      "id": 28692,
+      "type": "painting",
+      "name": {
+        "en": "Painting of the Bookman's Shelves",
+        "fr": "La villégiature du Lettré",
+        "de": "Gemälde „Lehnsgut des Gelehrten“",
+        "ja": "風景画:篤学者の荘園"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "4480d6cc89d"
+    },
+    {
+      "id": 28693,
+      "type": "painting",
+      "name": {
+        "en": "Painting of Pla Enni",
+        "fr": "Pla Enni",
+        "de": "Gemälde „Pla Enni“",
+        "ja": "風景画:プラ・エンニ茸窟"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "22c1da25bf2"
+    },
+    {
+      "id": 28694,
+      "type": "painting",
+      "name": {
+        "en": "Painting of Deepwood Swim",
+        "fr": "Bois Profond",
+        "de": "Gemälde „Stadt am Grund“",
+        "ja": "風景画:魚たちの街"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "5c466d2258f"
+    },
+    {
+      "id": 28695,
+      "type": "painting",
+      "name": {
+        "en": "Painting of Lyhe Ghiah",
+        "fr": "Lyhe Ghiah",
+        "de": "Gemälde „Schloss Lyhe Ghiah“",
+        "ja": "風景画:リェー・ギア城"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "86c7a28e0ac"
+    },
+    {
+      "id": 28696,
+      "type": "painting",
+      "name": {
+        "en": "Painting of Saint Fathric's Temple",
+        "fr": "Le temple de Saint-Fathric",
+        "de": "Gemälde „Tempel des Heiligen Fathric“",
+        "ja": "風景画:聖ファスリクの額"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "3dbe6363880"
+    },
+    {
+      "id": 28697,
+      "type": "painting",
+      "name": {
+        "en": "Painting of Fort Gohn",
+        "fr": "La forteresse de Gohn",
+        "de": "Gemälde „Gohn-Feste“",
+        "ja": "風景画:ゴーンの砦"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "c886996d797"
+    },
+    {
+      "id": 28698,
+      "type": "painting",
+      "name": {
+        "en": "Painting of Fruit of the Protector",
+        "fr": "L'Œuf du Serpent marin",
+        "de": "Gemälde „Kleinod der Beschützerin“",
+        "ja": "風景画:水蛇の宝卵"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "8b4ffbfa975"
+    },
+    {
+      "id": 28699,
+      "type": "painting",
+      "name": {
+        "en": "Painting of the Covered Halls of Dwatl",
+        "fr": "Le sanctuaire englouti de Dwatl",
+        "de": "Gemälde „Versunkenes Heiligtum von Dwatl“",
+        "ja": "風景画:ダワトリ溺没神殿"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "141e2a1c6e3"
+    },
+    {
+      "id": 28700,
+      "type": "painting",
+      "name": {
+        "en": "Painting of Lozatl's Conquest",
+        "fr": "La Conquête de Lozatl",
+        "de": "Gemälde „Treppe des Lozatl“",
+        "ja": "風景画:ロツァトル大階段"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "5ab27f16f06"
+    },
+    {
+      "id": 28701,
+      "type": "painting",
+      "name": {
+        "en": "Painting of Fanow",
+        "fr": "Fanow",
+        "de": "Gemälde „Fanow“",
+        "ja": "風景画:ファノヴの里"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "08c63b15a8f"
+    },
+    {
+      "id": 28702,
+      "type": "painting",
+      "name": {
+        "en": "Painting of the Morning Stars",
+        "fr": "Les Étoiles du Matin",
+        "de": "Gemälde „Morgensterne“",
+        "ja": "風景画:四つの明星"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "1481892cac2"
+    },
+    {
+      "id": 28703,
+      "type": "painting",
+      "name": {
+        "en": "Painting of the Ondo Cups",
+        "fr": "Baïne",
+        "de": "Gemälde „Ondo-Becken“",
+        "ja": "風景画:オンドの潮溜まり"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "d795f782772"
+    },
+    {
+      "id": 28704,
+      "type": "painting",
+      "name": {
+        "en": "Painting of the Workbench",
+        "fr": "L'atelier de l'Original",
+        "de": "Gemälde „Die Werkstatt“",
+        "ja": "風景画:奇人のアトリエ"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "952a03d6354"
+    },
+    {
+      "id": 28705,
+      "type": "painting",
+      "name": {
+        "en": "Painting of Where the Dry Return",
+        "fr": "La crypte du Sans-branchies",
+        "de": "Gemälde „Seelenruh der Landler“",
+        "ja": "風景画:陸人の墓標"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "cef46a39b38"
+    },
+    {
+      "id": 28706,
+      "type": "painting",
+      "name": {
+        "en": "Painting of Purpure",
+        "fr": "La grotte purpurine",
+        "de": "Gemälde „Purpurhöhle“",
+        "ja": "風景画:プルプラ洞"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "3f7351481d8"
+    },
+    {
+      "id": 28707,
+      "type": "painting",
+      "name": {
+        "en": "Painting of Amaurot",
+        "fr": "Amaurote",
+        "de": "Gemälde „Amaurot“",
+        "ja": "風景画:アーモロート"
+      },
+      "extension": "ShB",
+      "area": "09",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2370
+        }
+      ],
+      "lodestoneId": "96b9999aff4"
+    },
+    {
+      "id": 37085,
+      "type": "painting",
+      "name": {
+        "en": "Leveilleur Estate Painting",
+        "fr": "Résidence des Leveilleur",
+        "de": "Gemälde „Anwesen der Leveilleurs“",
+        "ja": "風景画:ルヴェユール邸"
+      },
+      "extension": "EW",
+      "area": "10",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "86e1cd6e522"
+    },
+    {
+      "id": 37086,
+      "type": "painting",
+      "name": {
+        "en": "Scholar's Harbor Painting",
+        "fr": "Port de l'Érudit",
+        "de": "Gemälde „Thaliaks Pforte“",
+        "ja": "風景画:知神の港"
+      },
+      "extension": "EW",
+      "area": "10",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "917ba9bf920"
+    },
+    {
+      "id": 37087,
+      "type": "painting",
+      "name": {
+        "en": "Forum Painting",
+        "fr": "Les Rostres",
+        "de": "Gemälde „Rat der Philosophen“",
+        "ja": "風景画:哲学者議会議場"
+      },
+      "extension": "EW",
+      "area": "10",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "9a404de2d0d"
+    },
+    {
+      "id": 37088,
+      "type": "painting",
+      "name": {
+        "en": "Noumenon Painting",
+        "fr": "Noumène",
+        "de": "Gemälde „Noumenon“",
+        "ja": "風景画:ヌーメノン大書院"
+      },
+      "extension": "EW",
+      "area": "10",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "532f858c150"
+    },
+    {
+      "id": 37089,
+      "type": "painting",
+      "name": {
+        "en": "Rostra Painting",
+        "fr": "Conseil de Sharlayan",
+        "de": "Gemälde „Forum“",
+        "ja": "風景画:哲学者の広場"
+      },
+      "extension": "EW",
+      "area": "10",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "5e8ba31a761"
+    },
+    {
+      "id": 37090,
+      "type": "painting",
+      "name": {
+        "en": "Journey's End Painting",
+        "fr": "Colline des Naufragés",
+        "de": "Gemälde „Hügel der Gestrandeten“",
+        "ja": "風景画:漂流者の丘"
+      },
+      "extension": "EW",
+      "area": "10",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "db80a13390f"
+    },
+    {
+      "id": 37091,
+      "type": "painting",
+      "name": {
+        "en": "Learners' Meet Painting",
+        "fr": "Aula",
+        "de": "Gemälde „Auditorium“",
+        "ja": "風景画:公開講堂"
+      },
+      "extension": "EW",
+      "area": "10",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "9149c38d832"
+    },
+    {
+      "id": 37099,
+      "type": "painting",
+      "name": {
+        "en": "Path of Artifice Painting",
+        "fr": "Passage de l'Ingéniosité",
+        "de": "Gemälde „Pfad der Kunst­fer­tig­keit“",
+        "ja": "風景画:アルティフィスパス"
+      },
+      "extension": "EW",
+      "area": "10",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "a7d369798e6"
+    },
+    {
+      "id": 37100,
+      "type": "painting",
+      "name": {
+        "en": "Thaumazein Painting",
+        "fr": "Thaumazein",
+        "de": "Gemälde „Thaumazein“",
+        "ja": "風景画:タウマゼイン"
+      },
+      "extension": "EW",
+      "area": "10",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "cd1929faf85"
+    },
+    {
+      "id": 37101,
+      "type": "painting",
+      "name": {
+        "en": "Meryall Agronomics Painting",
+        "fr": "Laboratoire agronomique de Meryall",
+        "de": "Gemälde „Meryalls Agrarbotanik“",
+        "ja": "風景画:メリオール実験農場"
+      },
+      "extension": "EW",
+      "area": "10",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "1a148d4d531"
+    },
+    {
+      "id": 37102,
+      "type": "painting",
+      "name": {
+        "en": "Troglophile's Deep Painting",
+        "fr": "Repaire des Cavernicoles",
+        "de": "Gemälde „Grotte der Troglophilen“",
+        "ja": "風景画:洞穴生物繁殖区"
+      },
+      "extension": "EW",
+      "area": "10",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "1c1c4bd5b89"
+    },
+    {
+      "id": 37103,
+      "type": "painting",
+      "name": {
+        "en": "Sharlayan Hamlet Painting",
+        "fr": "Petite Sharlayan",
+        "de": "Gemälde „Klein-Sharlayan“",
+        "ja": "風景画:リトルシャーレアン"
+      },
+      "extension": "EW",
+      "area": "10",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "0ded8ada66b"
+    },
+    {
+      "id": 37092,
+      "type": "painting",
+      "name": {
+        "en": "Ruveydah Fibers Painting",
+        "fr": "Soierie de Ruveydah",
+        "de": "Gemälde „Ruveydahs Zwirn“",
+        "ja": "風景画:ルヴェーダ製糸局"
+      },
+      "extension": "EW",
+      "area": "11",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "4052ef8af41"
+    },
+    {
+      "id": 37093,
+      "type": "painting",
+      "name": {
+        "en": "Balshahn Bazaar Painting",
+        "fr": "Bazar de Balshahn",
+        "de": "Gemälde „Balshahn-Basar“",
+        "ja": "風景画:バルシャーン・バザール"
+      },
+      "extension": "EW",
+      "area": "11",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "3ed9a88edba"
+    },
+    {
+      "id": 37094,
+      "type": "painting",
+      "name": {
+        "en": "Nilopala Nourishments Painting",
+        "fr": "Ferme de Nilopala",
+        "de": "Gemälde „Nilopalas Vielfalt“",
+        "ja": "風景画:ニーローパラ畜産局"
+      },
+      "extension": "EW",
+      "area": "11",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "b72ee82ae09"
+    },
+    {
+      "id": 37095,
+      "type": "painting",
+      "name": {
+        "en": "Mehryde's Meyhane Painting",
+        "fr": "Meyhane de Mehryde",
+        "de": "Gemälde „Mehrydes Meyhane“",
+        "ja": "風景画:メリードズメイハネ"
+      },
+      "extension": "EW",
+      "area": "11",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "2d4f7962fd9"
+    },
+    {
+      "id": 37096,
+      "type": "painting",
+      "name": {
+        "en": "Meghaduta Painting",
+        "fr": "Palais du Meghaduta",
+        "de": "Gemälde „Meghaduta“",
+        "ja": "風景画:メーガドゥータ宮"
+      },
+      "extension": "EW",
+      "area": "11",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "ba0dbe4d85e"
+    },
+    {
+      "id": 37097,
+      "type": "painting",
+      "name": {
+        "en": "Alzadaal's Peace Painting",
+        "fr": "Repos d'Alzadaal",
+        "de": "Gemälde „Alzadaals Ruh“",
+        "ja": "風景画:アルザダール廟"
+      },
+      "extension": "EW",
+      "area": "11",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "d88e2ef7f4c"
+    },
+    {
+      "id": 37098,
+      "type": "painting",
+      "name": {
+        "en": "Ruveydah Fibers Rooftop Garden Painting",
+        "fr": "Jardin suspendu de la soierie de Ruveydah",
+        "de": "Gemälde „Dachgarten von Ruveydahs Zwirn“",
+        "ja": "風景画:ルヴェーダ製糸局空中庭園"
+      },
+      "extension": "EW",
+      "area": "11",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "db9b15518cb"
+    },
+    {
+      "id": 37104,
+      "type": "painting",
+      "name": {
+        "en": "Yedlihmad Painting",
+        "fr": "Yedlihmad",
+        "de": "Gemälde „Yedlihmad“",
+        "ja": "風景画:イェドリマン"
+      },
+      "extension": "EW",
+      "area": "11",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "3850775a27b"
+    },
+    {
+      "id": 37105,
+      "type": "painting",
+      "name": {
+        "en": "Kadjaya's Footsteps Painting",
+        "fr": "Pas de Kadjaya",
+        "de": "Gemälde „Kadjayas Bühne“",
+        "ja": "風景画:カジャーヤ演舞場"
+      },
+      "extension": "EW",
+      "area": "11",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "fd8e2fa7345"
+    },
+    {
+      "id": 37106,
+      "type": "painting",
+      "name": {
+        "en": "Giantsgall Grounds Painting",
+        "fr": "Mines de fiel-de-géant",
+        "de": "Gemälde „Gallenerz-Feld“",
+        "ja": "風景画:ギガントガル採石場"
+      },
+      "extension": "EW",
+      "area": "11",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "83e62fbcb20"
+    },
+    {
+      "id": 37107,
+      "type": "painting",
+      "name": {
+        "en": "Shroud of the Samgha Painting",
+        "fr": "Jungle des Sangha",
+        "de": "Gemälde „Schleier der Sangha“",
+        "ja": "風景画:衆園の森"
+      },
+      "extension": "EW",
+      "area": "11",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "c318c9d9d49"
+    },
+    {
+      "id": 37108,
+      "type": "painting",
+      "name": {
+        "en": "Font of Maya Painting",
+        "fr": "Source de la Maya",
+        "de": "Gemälde „Mayaquell“",
+        "ja": "風景画:マーヤーの幻泉"
+      },
+      "extension": "EW",
+      "area": "11",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "96b46cd05f9"
+    },
+    {
+      "id": 37109,
+      "type": "painting",
+      "name": {
+        "en": "Great Work Painting",
+        "fr": "Le Grand Œuvre",
+        "de": "Gemälde „Daemirs Werk“",
+        "ja": "風景画:デミールの遺烈郷"
+      },
+      "extension": "EW",
+      "area": "11",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "38196d8f6a1"
+    },
+    {
+      "id": 37110,
+      "type": "painting",
+      "name": {
+        "en": "Tertium Painting",
+        "fr": "Gare de Tertium",
+        "de": "Gemälde „Tertium“",
+        "ja": "風景画:テルティウム駅"
+      },
+      "extension": "EW",
+      "area": "11",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "92e85df9b7d"
+    },
+    {
+      "id": 37111,
+      "type": "painting",
+      "name": {
+        "en": "Juturna Platform G Painting",
+        "fr": "Plateforme Juturna G",
+        "de": "Gemälde „Juturna-Plattform G“",
+        "ja": "風景画:ユートゥルナG水上リグ"
+      },
+      "extension": "EW",
+      "area": "11",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "a3963e916ef"
+    },
+    {
+      "id": 37112,
+      "type": "painting",
+      "name": {
+        "en": "Runaway Train Painting",
+        "fr": "Train fuyard",
+        "de": "Gemälde „Der entgleiste Zug“",
+        "ja": "風景画:脱線した列車"
+      },
+      "extension": "EW",
+      "area": "11",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "e1341bbcc61"
+    },
+    {
+      "id": 37113,
+      "type": "painting",
+      "name": {
+        "en": "Senaculum Imperialis Painting",
+        "fr": "Senaculum Imperialis",
+        "de": "Gemälde „Senaculum Imperialis“",
+        "ja": "風景画:ガレマール元老院"
+      },
+      "extension": "EW",
+      "area": "11",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "176f41bc28d"
+    },
+    {
+      "id": 37114,
+      "type": "painting",
+      "name": {
+        "en": "Regio Urbanissima Painting",
+        "fr": "Regio Urbanissima",
+        "de": "Gemälde „Regio Urbanissima“",
+        "ja": "風景画:ウルバニッシマ区"
+      },
+      "extension": "EW",
+      "area": "11",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "0dafeaf39c6"
+    },
+    {
+      "id": 37115,
+      "type": "painting",
+      "name": {
+        "en": "Forum Solius Painting",
+        "fr": "Forum Solius",
+        "de": "Gemälde „Forum Solius“",
+        "ja": "風景画:フォルム・ソリウス"
+      },
+      "extension": "EW",
+      "area": "11",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "7461ad05c24"
+    },
+    {
+      "id": 37116,
+      "type": "painting",
+      "name": {
+        "en": "Chthonic Horns Painting",
+        "fr": "Jardin chthonien",
+        "de": "Gemälde „Schwarzmulchkuppen“",
+        "ja": "風景画:異土の庭"
+      },
+      "extension": "EW",
+      "area": "12",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "0dcb0f58da4"
+    },
+    {
+      "id": 37117,
+      "type": "painting",
+      "name": {
+        "en": "Metabaseos Thalassai Painting",
+        "fr": "La Métabase",
+        "de": "Gemälde „Metabaseos Thalassai“",
+        "ja": "風景画:メタバシス六洋院"
+      },
+      "extension": "EW",
+      "area": "12",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "435f01446cd"
+    },
+    {
+      "id": 37118,
+      "type": "painting",
+      "name": {
+        "en": "Lethe Painting",
+        "fr": "Le Léthé",
+        "de": "Gemälde „Lethe“",
+        "ja": "風景画:レーテー海"
+      },
+      "extension": "EW",
+      "area": "12",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "5a7b2113709"
+    },
+    {
+      "id": 37119,
+      "type": "painting",
+      "name": {
+        "en": "Ktisis Hyperboreia Painting",
+        "fr": "L'Hyperborée",
+        "de": "Gemälde „Ktisis Hyperboreia“",
+        "ja": "風景画:ヒュペルボレア造物院"
+      },
+      "extension": "EW",
+      "area": "12",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "5a9f326ab04"
+    },
+    {
+      "id": 37120,
+      "type": "painting",
+      "name": {
+        "en": "Anagnorisis Painting",
+        "fr": "L'Anagnorisis",
+        "de": "Gemälde „Anagnorisis“",
+        "ja": "風景画:アナグノリシス天測園"
+      },
+      "extension": "EW",
+      "area": "12",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "a3d8a97110d"
+    },
+    {
+      "id": 37121,
+      "type": "painting",
+      "name": {
+        "en": "Kydonia Knolls Painting",
+        "fr": "Butte de Cydonia",
+        "de": "Gemälde „Kydonias Antlitz“",
+        "ja": "風景画:シドニア・ノールズ"
+      },
+      "extension": "EW",
+      "area": "13",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "72ee006c6fd"
+    },
+    {
+      "id": 37122,
+      "type": "painting",
+      "name": {
+        "en": "Carrotorium Painting",
+        "fr": "Carrotorium",
+        "de": "Gemälde „Carrotorium“",
+        "ja": "風景画:キャロットリウム"
+      },
+      "extension": "EW",
+      "area": "13",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "63c62b24599"
+    },
+    {
+      "id": 37123,
+      "type": "painting",
+      "name": {
+        "en": "Greatest Endsvale Painting",
+        "fr": "La Garenne sempervirente",
+        "de": "Gemälde „Der schönste Wald“",
+        "ja": "風景画:グレーテスト・エンズヴィル"
+      },
+      "extension": "EW",
+      "area": "13",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "d066ba00afa"
+    },
+    {
+      "id": 37124,
+      "type": "painting",
+      "name": {
+        "en": "Heimdall's Last Sight Painting",
+        "fr": "Épave du Heimdall",
+        "de": "Gemälde „Heimdalls letzte Ruh“",
+        "ja": "風景画:ヘイムダル級観察艇の残骸"
+      },
+      "extension": "EW",
+      "area": "13",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "50938007ba0"
+    },
+    {
+      "id": 37125,
+      "type": "painting",
+      "name": {
+        "en": "Watcher's Palace Painting",
+        "fr": "Palais du Veilleur",
+        "de": "Gemälde „Palast des Wächters“",
+        "ja": "風景画:監視者の館"
+      },
+      "extension": "EW",
+      "area": "13",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "8ffff406a5c"
+    },
+    {
+      "id": 37126,
+      "type": "painting",
+      "name": {
+        "en": "Stigma-1 Painting",
+        "fr": "Stigma-1",
+        "de": "Gemälde „Stigma-1“",
+        "ja": "風景画:スティグマ・ワン"
+      },
+      "extension": "EW",
+      "area": "13",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "883df0f6f15"
+    },
+    {
+      "id": 37127,
+      "type": "painting",
+      "name": {
+        "en": "Ostrakon Deka-hexi Painting",
+        "fr": "Ostrakon Dékahexi",
+        "de": "Gemälde „Ostrakon Deka-hexi“",
+        "ja": "風景画:オストラコン・デカークシ"
+      },
+      "extension": "EW",
+      "area": "13",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "98d6f1ede5e"
+    },
+    {
+      "id": 37128,
+      "type": "painting",
+      "name": {
+        "en": "Ostrakon Tria Painting",
+        "fr": "Ostrakon Tria",
+        "de": "Gemälde „Ostrakon Tria“",
+        "ja": "風景画:オストラコン・トゥリア"
+      },
+      "extension": "EW",
+      "area": "13",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "8f2e1d373d9"
+    },
+    {
+      "id": 37129,
+      "type": "painting",
+      "name": {
+        "en": "Ostrakon Deka-okto Painting",
+        "fr": "Ostrakon Dékaokto",
+        "de": "Gemälde „Ostrakon Deka-okto“",
+        "ja": "風景画:オストラコン・デカオクト"
+      },
+      "extension": "EW",
+      "area": "13",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "4d6068dab39"
+    },
+    {
+      "id": 37130,
+      "type": "painting",
+      "name": {
+        "en": "Ostrakon Hena Painting",
+        "fr": "Ostrakon Éna",
+        "de": "Gemälde „Ostrakon Hena“",
+        "ja": "風景画:オストラコン・エーナ"
+      },
+      "extension": "EW",
+      "area": "13",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 2973
+        }
+      ],
+      "lodestoneId": "869da222c18"
+    },
+    {
+      "id": 44365,
+      "type": "painting",
+      "name": {
+        "en": "Bayside Bevy Painting",
+        "fr": "Baie commerçante",
+        "de": "Gemälde „Küstenkolonie“",
+        "ja": "風景画:ベイサイド・ベヴィー"
+      },
+      "extension": "DT",
+      "area": "14",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "a237e1bf0ad"
+    },
+    {
+      "id": 44366,
+      "type": "painting",
+      "name": {
+        "en": "Resplendent Quarter Painting",
+        "fr": "La Nuée bigarrée",
+        "de": "Gemälde „Glanzfeder-Viertel“",
+        "ja": "風景画:翼鏡の街"
+      },
+      "extension": "DT",
+      "area": "14",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "9e1a63f17c3"
+    },
+    {
+      "id": 44367,
+      "type": "painting",
+      "name": {
+        "en": "High Tide Harbor Painting",
+        "fr": "Perron des Valeureux",
+        "de": "Gemälde „Hochfluthafen“",
+        "ja": "風景画:満ちた玄関"
+      },
+      "extension": "DT",
+      "area": "14",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "6e0e7b73a92"
+    },
+    {
+      "id": 44368,
+      "type": "painting",
+      "name": {
+        "en": "For'ard Cabins Painting",
+        "fr": "Cabines de Proue",
+        "de": "Gemälde „Kielkajüten“",
+        "ja": "風景画:フォルアード・キャビンズ"
+      },
+      "extension": "DT",
+      "area": "14",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "7bda42cc3a2"
+    },
+    {
+      "id": 44369,
+      "type": "painting",
+      "name": {
+        "en": "Hunu'iliy Painting",
+        "fr": "Phare de Hunu'iliy",
+        "de": "Gemälde „Hunu'iliy“",
+        "ja": "風景画:フヌイリーの塔"
+      },
+      "extension": "DT",
+      "area": "14",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "a8c89f560f4"
+    },
+    {
+      "id": 44370,
+      "type": "painting",
+      "name": {
+        "en": "Wachunpelo Painting",
+        "fr": "Wachunpelo",
+        "de": "Gemälde „Wachunpelo“",
+        "ja": "風景画:ワチュン・ペロ"
+      },
+      "extension": "DT",
+      "area": "14",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "a9db37f55c9"
+    },
+    {
+      "id": 44371,
+      "type": "painting",
+      "name": {
+        "en": "Miplu's Mate Garden Painting",
+        "fr": "Matéière de Miplu",
+        "de": "Gemälde „Miplus Mategarten“",
+        "ja": "風景画:ミープル・マテ茶園"
+      },
+      "extension": "DT",
+      "area": "14",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "9780092597c"
+    },
+    {
+      "id": 44372,
+      "type": "painting",
+      "name": {
+        "en": "Shades of Grief Painting",
+        "fr": "Les Ombres endeuillées",
+        "de": "Gemälde „Schatten der Trauer“",
+        "ja": "風景画:哀苦の影"
+      },
+      "extension": "DT",
+      "area": "14",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "3dba5a88a89"
+    },
+    {
+      "id": 44373,
+      "type": "painting",
+      "name": {
+        "en": "Naryor Gorna Painting",
+        "fr": "Naryor Gorna",
+        "de": "Gemälde „Naryor Gorna“",
+        "ja": "風景画:ナーヨー・ゴーナ"
+      },
+      "extension": "DT",
+      "area": "14",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "9a8ff6647dc"
+    },
+    {
+      "id": 44374,
+      "type": "painting",
+      "name": {
+        "en": "Chirwagur Saltern Painting",
+        "fr": "Salin de Chirwagur",
+        "de": "Gemälde „Salzgruben der Chirwagur“",
+        "ja": "風景画:チーワグー塩田"
+      },
+      "extension": "DT",
+      "area": "14",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "921ab500782"
+    },
+    {
+      "id": 44375,
+      "type": "painting",
+      "name": {
+        "en": "Worqor Lar Dor Painting",
+        "fr": "Worqor Lar Dor",
+        "de": "Gemälde „Worqor Lar Dor“",
+        "ja": "風景画:ウォーコー・ラァ・ドー"
+      },
+      "extension": "DT",
+      "area": "14",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "9c5a5544da1"
+    },
+    {
+      "id": 44376,
+      "type": "painting",
+      "name": {
+        "en": "House of Winds High Painting",
+        "fr": "Demeure des Brises généreuses",
+        "de": "Gemälde „Haus der Wuchernden Winde“",
+        "ja": "風景画:生い茂る薫風の屋敷"
+      },
+      "extension": "DT",
+      "area": "14",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "458e3247569"
+    },
+    {
+      "id": 44377,
+      "type": "painting",
+      "name": {
+        "en": "Cave Kikitola Painting",
+        "fr": "Grotte de Kikitola",
+        "de": "Gemälde „Kikitola-Höhle“",
+        "ja": "風景画:キキトラ洞"
+      },
+      "extension": "DT",
+      "area": "14",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "2373ec139a3"
+    },
+    {
+      "id": 44378,
+      "type": "painting",
+      "name": {
+        "en": "Breath Between Painting",
+        "fr": "Ponton poissonneux",
+        "de": "Gemälde „Hängender Kai“",
+        "ja": "風景画:竿網桟橋"
+      },
+      "extension": "DT",
+      "area": "14",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "2630e9c110b"
+    },
+    {
+      "id": 44379,
+      "type": "painting",
+      "name": {
+        "en": "Kozanuakiy Painting",
+        "fr": "Kozanuakiy",
+        "de": "Gemälde „Kozanuakiy“",
+        "ja": "風景画:コザヌア・キー"
+      },
+      "extension": "DT",
+      "area": "14",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "f7cf41286e6"
+    },
+    {
+      "id": 44380,
+      "type": "painting",
+      "name": {
+        "en": "Earthenshire Painting",
+        "fr": "La Fournée",
+        "de": "Gemälde „Irdehalde“",
+        "ja": "風景画:アースンシャイア"
+      },
+      "extension": "DT",
+      "area": "14",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "46977e3bfd5"
+    },
+    {
+      "id": 44381,
+      "type": "painting",
+      "name": {
+        "en": "Marsh Ligaka Painting",
+        "fr": "Marais de Ligaka",
+        "de": "Gemälde „Ligaka-Bruch“",
+        "ja": "風景画:リガカの潟"
+      },
+      "extension": "DT",
+      "area": "14",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "2310dff94bb"
+    },
+    {
+      "id": 44382,
+      "type": "painting",
+      "name": {
+        "en": "Iq Br'aax Painting",
+        "fr": "Iq Br'aax",
+        "de": "Gemälde „Iq Br'aax“",
+        "ja": "風景画:イクブラーシャ"
+      },
+      "extension": "DT",
+      "area": "14",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "ebdb43021de"
+    },
+    {
+      "id": 44383,
+      "type": "painting",
+      "name": {
+        "en": "Iq Rrax Tsoly Painting",
+        "fr": "Iq Rrax Tsoly",
+        "de": "Gemälde „Iq Rrax Tsoly“",
+        "ja": "風景画:イクラシュ・ゾユ"
+      },
+      "extension": "DT",
+      "area": "14",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "a976a75a2de"
+    },
+    {
+      "id": 44384,
+      "type": "painting",
+      "name": {
+        "en": "Xobr'it Cinderfield Painting",
+        "fr": "Plaines cendrées de Xobr'it",
+        "de": "Gemälde „Aschenfront von Xobr'it“",
+        "ja": "風景画:ショブリト灰戦場"
+      },
+      "extension": "DT",
+      "area": "14",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "c64930dc44c"
+    },
+    {
+      "id": 44385,
+      "type": "painting",
+      "name": {
+        "en": "Choliselvaas Painting",
+        "fr": "Rocher céleste",
+        "de": "Gemälde „Choliselvaas“",
+        "ja": "風景画:空の重し"
+      },
+      "extension": "DT",
+      "area": "14",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "a993b0f20b3"
+    },
+    {
+      "id": 44386,
+      "type": "painting",
+      "name": {
+        "en": "Ja Tiika Heartland Painting",
+        "fr": "Sylve-mère de Ja Tiika",
+        "de": "Gemälde „Herz von Ja Tiika“",
+        "ja": "風景画:ジャティーカ央森"
+      },
+      "extension": "DT",
+      "area": "14",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "2bb7a425864"
+    },
+    {
+      "id": 44387,
+      "type": "painting",
+      "name": {
+        "en": "Tree of Living Light Painting",
+        "fr": "Arbre furoluminescent",
+        "de": "Gemälde „Baum des Lebenden Lichts“",
+        "ja": "風景画:幻煌樹"
+      },
+      "extension": "DT",
+      "area": "14",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "594665e5915"
+    },
+    {
+      "id": 44388,
+      "type": "painting",
+      "name": {
+        "en": "Hhusatahwi Painting",
+        "fr": "Hhusatahwi",
+        "de": "Gemälde „Hhusatahwi“",
+        "ja": "風景画:フーサタイ宿場町"
+      },
+      "extension": "DT",
+      "area": "15",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "33ec3244ace"
+    },
+    {
+      "id": 44389,
+      "type": "painting",
+      "name": {
+        "en": "Mehwahhetsoan Painting",
+        "fr": "Mehwahhetsoan",
+        "de": "Gemälde „Mehwahhetsoan“",
+        "ja": "風景画:メワヘイゾーン"
+      },
+      "extension": "DT",
+      "area": "15",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "0ea556aa09c"
+    },
+    {
+      "id": 44390,
+      "type": "painting",
+      "name": {
+        "en": "Lake Toari Painting",
+        "fr": "Lac Toari",
+        "de": "Gemälde „Toari-See“",
+        "ja": "風景画:トーリ湖"
+      },
+      "extension": "DT",
+      "area": "15",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "fd11ba630eb"
+    },
+    {
+      "id": 44391,
+      "type": "painting",
+      "name": {
+        "en": "Pyaayehe'pya Painting",
+        "fr": "Colline de Pyaayehe'pya",
+        "de": "Gemälde „Pyaayehe'pya“",
+        "ja": "風景画:パーエヘッパの丘"
+      },
+      "extension": "DT",
+      "area": "15",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "9f53bf057f3"
+    },
+    {
+      "id": 44392,
+      "type": "painting",
+      "name": {
+        "en": "Mount Loazensasaya Painting",
+        "fr": "Hauts de Loazensasaya",
+        "de": "Gemälde „Loazensasaya“",
+        "ja": "風景画:語り風の丘"
+      },
+      "extension": "DT",
+      "area": "15",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "7c2a34b7725"
+    },
+    {
+      "id": 44393,
+      "type": "painting",
+      "name": {
+        "en": "Resolution Painting",
+        "fr": "Résolution",
+        "de": "Gemälde „Schlichtung“",
+        "ja": "風景画:レゾリューション"
+      },
+      "extension": "DT",
+      "area": "15",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "df80899ef4d"
+    },
+    {
+      "id": 44394,
+      "type": "painting",
+      "name": {
+        "en": "Residential Sector Painting",
+        "fr": "Secteur résidentiel",
+        "de": "Gemälde „Wohnsektor“",
+        "ja": "風景画:レジデンシャルセクター"
+      },
+      "extension": "DT",
+      "area": "15",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "01d767af32c"
+    },
+    {
+      "id": 44395,
+      "type": "painting",
+      "name": {
+        "en": "Mosaic Painting",
+        "fr": "La Mosaïque",
+        "de": "Gemälde „Café Mosaik“",
+        "ja": "風景画:モザイク・コーヒー"
+      },
+      "extension": "DT",
+      "area": "15",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "8500d0c4742"
+    },
+    {
+      "id": 44396,
+      "type": "painting",
+      "name": {
+        "en": "True Vue Painting",
+        "fr": "Vraie-vision",
+        "de": "Gemälde „Wahrlee“",
+        "ja": "風景画:トゥルービュー"
+      },
+      "extension": "DT",
+      "area": "15",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "75f4d24a7c8"
+    },
+    {
+      "id": 44397,
+      "type": "painting",
+      "name": {
+        "en": "Nexus Arcade Painting",
+        "fr": "Arcades marchandes",
+        "de": "Gemälde „Nexus-Arkaden“",
+        "ja": "風景画:ネクサスアーケード"
+      },
+      "extension": "DT",
+      "area": "15",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "5388719a296"
+    },
+    {
+      "id": 44398,
+      "type": "painting",
+      "name": {
+        "en": "Thunderyards Painting",
+        "fr": "Prés fulgurants",
+        "de": "Gemälde „Donnersteppe“",
+        "ja": "風景画:サンダーヤード"
+      },
+      "extension": "DT",
+      "area": "15",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "de8076bd3e0"
+    },
+    {
+      "id": 44399,
+      "type": "painting",
+      "name": {
+        "en": "Outskirts Painting",
+        "fr": "Les Faubourgs",
+        "de": "Gemälde „Außenbezirke“",
+        "ja": "風景画:アウトスカーツ"
+      },
+      "extension": "DT",
+      "area": "15",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "c15c4274996"
+    },
+    {
+      "id": 44400,
+      "type": "painting",
+      "name": {
+        "en": "Everkeep Painting",
+        "fr": "Gardienne de l'Éternité",
+        "de": "Gemälde „Immerfried“",
+        "ja": "風景画:エバーキープ"
+      },
+      "extension": "DT",
+      "area": "15",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "60d53707677"
+    },
+    {
+      "id": 44401,
+      "type": "painting",
+      "name": {
+        "en": "Crackling Chasm Painting",
+        "fr": "Gouffre grondant",
+        "de": "Gemälde „Knisterklamm“",
+        "ja": "風景画:帯雷危険区域"
+      },
+      "extension": "DT",
+      "area": "15",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "5923faee794"
+    },
+    {
+      "id": 44402,
+      "type": "painting",
+      "name": {
+        "en": "Nameslates Painting",
+        "fr": "Cimetière des Patronymes",
+        "de": "Gemälde „Namensacker“",
+        "ja": "風景画:記名された墓地"
+      },
+      "extension": "DT",
+      "area": "15",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "a9a06b7b93a"
+    },
+    {
+      "id": 44403,
+      "type": "painting",
+      "name": {
+        "en": "Archeo Alexandria Painting",
+        "fr": "Vieille Alexandrie",
+        "de": "Gemälde „Archa-Alexandria“",
+        "ja": "風景画:旧アレクサンドリア城下町"
+      },
+      "extension": "DT",
+      "area": "15",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "f7b83dab15f"
+    },
+    {
+      "id": 44404,
+      "type": "painting",
+      "name": {
+        "en": "Meso Terminal Painting",
+        "fr": "Mésoterminal",
+        "de": "Gemälde „Meso-System“",
+        "ja": "風景画:メインターミナル"
+      },
+      "extension": "DT",
+      "area": "16",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "a1e4144de11"
+    },
+    {
+      "id": 44405,
+      "type": "painting",
+      "name": {
+        "en": "Canal Town Painting",
+        "fr": "Cité lacustre",
+        "de": "Gemälde „Kanalstadt“",
+        "ja": "風景画:カナルタウン"
+      },
+      "extension": "DT",
+      "area": "16",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "4efa445e63e"
+    },
+    {
+      "id": 44406,
+      "type": "painting",
+      "name": {
+        "en": "Yesterland Painting",
+        "fr": "Terre d'hier",
+        "de": "Gemälde „Gesterland“",
+        "ja": "風景画:イェスタランド"
+      },
+      "extension": "DT",
+      "area": "16",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "eaad35fc54f"
+    },
+    {
+      "id": 44407,
+      "type": "painting",
+      "name": {
+        "en": "Windspath Gardens Painting",
+        "fr": "Jardins de Soufflevent",
+        "de": "Gemälde „Windpfadgärten“",
+        "ja": "風景画:ウィンドパスガーデン"
+      },
+      "extension": "DT",
+      "area": "16",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "e075927b497"
+    },
+    {
+      "id": 44408,
+      "type": "painting",
+      "name": {
+        "en": "Asyle Volcane Painting",
+        "fr": "Asile volcanique",
+        "de": "Gemälde „Asylkan“",
+        "ja": "風景画:ヴォルケーノアサイラム"
+      },
+      "extension": "DT",
+      "area": "16",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "58dee591ccb"
+    },
+    {
+      "id": 44409,
+      "type": "painting",
+      "name": {
+        "en": "Steps of the Speaker Painting",
+        "fr": "La Voie de la prêtresse",
+        "de": "Gemälde „Stufen der Sprecherin“",
+        "ja": "風景画:旧き神子の道"
+      },
+      "extension": "DT",
+      "area": "16",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "joyous-painter"
+        },
+        {
+          "type": "achievement",
+          "id": 3510
+        }
+      ],
+      "lodestoneId": "51e4f038012"
+    },
+    {
+      "id": 32871,
+      "type": "painting",
+      "name": {
+        "en": "Painting of the New Nest",
+        "fr": "Peinture du Nichoir",
+        "de": "Gemälde „Wohnquartier Genist“",
+        "ja": "風景画:ニューネスト居住区"
+      },
+      "extension": "HW",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "art-appraiser"
+        }
+      ],
+      "lodestoneId": "5a1631ee8b5"
+    },
+    {
+      "id": 32872,
+      "type": "painting",
+      "name": {
+        "en": "Painting of Featherfall",
+        "fr": "Peinture de Tombeplume",
+        "de": "Gemälde „Federfall-Quartier“",
+        "ja": "風景画:フェザーフォール商業区"
+      },
+      "extension": "HW",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "art-appraiser"
+        }
+      ],
+      "lodestoneId": "1cb1f668460"
+    },
+    {
+      "id": 32873,
+      "type": "painting",
+      "name": {
+        "en": "Painting of the Risensong Quarter",
+        "fr": "Peinture du Nouveau Refrain",
+        "de": "Gemälde „Himmelsang“",
+        "ja": "風景画:リズンソング文化区"
+      },
+      "extension": "HW",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "art-appraiser"
+        }
+      ],
+      "lodestoneId": "f8bd552c5e7"
+    },
+    {
+      "id": 32874,
+      "type": "painting",
+      "name": {
+        "en": "Painting of the Firmament",
+        "fr": "Peinture d'Azurée",
+        "de": "Gemälde „Himmelsstadt“",
+        "ja": "風景画:蒼天街"
+      },
+      "extension": "HW",
+      "area": "04",
+      "tags": [],
+      "unlocks": [
+        {
+          "type": "shop",
+          "id": "art-appraiser"
+        }
+      ],
+      "lodestoneId": "0ac9c156978"
+    }
+  ]
+}

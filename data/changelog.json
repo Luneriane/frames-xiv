@@ -1,0 +1,41 @@
+[
+  {
+    "date": {
+      "day":"14",
+      "month":"10",
+      "year":"2026"
+    },
+    "changes":[
+      {
+        "en": "Site launch",
+        "fr": "Lancement du site",
+        "de": "Start der Website",
+        "ja": "サイト公開"
+      },
+      {
+        "en": "Added the Paintings page",
+        "fr": "Ajout de la page Peintures",
+        "de": "Seite „Gemälde“ hinzugefügt",
+        "ja": "「絵画」ページを追加"
+      },
+      {
+        "en": "Added language support",
+        "fr": "Gestion des langues",
+        "de": "Sprachunterstützung hinzugefügt",
+        "ja": "多言語対応を追加"
+      },
+      {
+        "en": "Sorting filters on the Paintings page",
+        "fr": "Filtres de tri sur la page Peintures",
+        "de": "Sortierfilter auf der Seite „Gemälde“",
+        "ja": "「絵画」ページに絞り込みフィルターを追加"
+      },
+      {
+        "en": "Painting details via pop-up",
+        "fr": "Détails d'une peinture via pop-up",
+        "de": "Gemäldedetails per Pop-up",
+        "ja": "ポップアップで絵画の詳細を表示"
+      }
+    ]    
+  }
+]

@@ -1,0 +1,118 @@
+{
+  "header": {
+    "home": {
+      "en": "What's new",
+      "fr": "Nouveautés",
+      "de": "Neuigkeiten",
+      "ja": "新着情報"
+    },
+    "unlock": {
+      "en": "Unlock",
+      "fr": "Débloquer",
+      "de": "Freischalten",
+      "ja": "解放方法"
+    },
+    "paintings": {
+      "en": "Paintings",
+      "fr": "Peintures",
+      "de": "Gemälde",
+      "ja": "絵画"
+    },
+    "portraits": {
+      "en": "Portraits",
+      "fr": "Portraits",
+      "de": "Porträts",
+      "ja": "肖像画"
+    }
+  },
+  "footer": {
+    "start": {
+      "en": "Translations made with AI, please ",
+      "fr": "Traductions réalisés par IA, merci de ",
+      "de": "Übersetzungen durch KI erstellt. Bitte ",
+      "ja": "AIによる翻訳です。誤りがあれば、"
+    },    
+    "middle": {
+      "en": "report",
+      "fr": "rapporter",
+      "de": "meldet",
+      "ja": "ご報告"
+    },
+    "end": {
+      "en": " any mistakes.",
+      "fr": " toute erreur.",
+      "de": " alle Fehler.",
+      "ja": "ください。"
+    }    
+  },
+  "expansions":{
+    "ARR": {
+      "en": "A Realm Reborn",
+      "fr": "A Realm Reborn",
+      "de": "A Realm Reborn",
+      "ja": "新生エオルゼア"
+    },
+    "HW": {
+      "en": "Heavensward",
+      "fr": "Heavensward",
+      "de": "Heavensward",
+      "ja": "蒼天のイシュガルド"
+    },
+    "SB": {
+      "en": "Stormblood",
+      "fr": "Stormblood",
+      "de": "Stormblood",
+      "ja": "紅蓮のリベレーター"
+    },
+    "ShB": {
+      "en": "Shadowbringers",
+      "fr": "Shadowbringers",
+      "de": "Shadowbringers",
+      "ja": "漆黒のヴィランズ"
+    },
+    "EW": {
+      "en": "Endwalker",
+      "fr": "Endwalker",
+      "de": "Endwalker",
+      "ja": "暁月のフィナーレ"
+    },
+    "DT": {
+      "en": "Dawntrail",
+      "fr": "Dawntrail",
+      "de": "Dawntrail",
+      "ja": "黄金のレガシー"
+    }
+  },
+  "filters": {
+    "title": {
+      "en": "Filters",
+      "fr": "Filtres",
+      "de": "Filter",
+      "ja": "フィルター"
+    },
+    "expansions": {
+      "en": "Expansions",
+      "fr": "Extensions",
+      "de": "Erweiterungen",
+      "ja": "拡張パッケージ"
+    },
+    "areas": {
+      "en": "Regions",
+      "fr": "Régions",
+      "de": "Regionen",
+      "ja": "地域"
+    },
+    "searchPlaceholder": {
+      "en": "Painting name…",
+      "fr": "Nom d'une peinture…",
+      "de": "Name des Gemäldes…",
+      "ja": "絵画の名前…"
+    },
+    "searchButton": {
+      "en": "Search",
+      "fr": "Rechercher",
+      "de": "Suchen",
+      "ja": "検索"
+    }
+  }
+}
