@@ -9,6 +9,9 @@ const gallery = document.getElementById("gallery")
 const modal = document.getElementById("modal")
 const modalCard = document.getElementById("modal-card")
 const modalClose = document.getElementById("modal-close")
+const searchInput = document.getElementById("search-bar-area")
+const searchButton = document.querySelector("#search-bar-container button")
+let currentSearchTerm = ""
 let paintingsDataCache
 let uiDataCache
 let paintingUiCache
@@ -82,6 +85,7 @@ async function loadFilterOptions() {
 
     image.src = `${imagePath}/${id}.png`
     image.alt = localizedName
+    image.title = localizedName
     image.className = "filter-icon"
     image.dataset.filterId = id
     if (selectedIds.has(id)) image.classList.add("is-active")
@@ -115,6 +119,22 @@ async function loadFilterOptions() {
 
 loadFilterOptions()
 
+/* ---------- Search ---------- */
+if (searchButton && searchInput) {
+  searchButton.addEventListener("click", () => {
+    currentSearchTerm = searchInput.value.trim().toLowerCase()
+    renderGallery(currentLanguage)
+  })
+}
+if (searchInput) {
+  searchInput.addEventListener("keydown", (event) => {
+    if (event.key === "Enter") {
+      event.preventDefault()
+      currentSearchTerm = searchInput.value.trim().toLowerCase()
+      renderGallery(currentLanguage)
+    }
+  })
+}
 /* ---------- Painting cards ---------- */
 
 function createCard(painting, language) {
@@ -268,7 +288,10 @@ function renderGallery(language) {
   const filtered = paintingsDataCache.paintings.filter((painting) => {
     const matchesExp = activeExp.size === 0 || activeExp.has(painting.extension)
     const matchesArea = activeArea.size === 0 || activeArea.has(painting.area)
-    return matchesExp && matchesArea
+    const matchesSearch =
+      !currentSearchTerm ||
+      localizedText(painting.name, language).toLowerCase().includes(currentSearchTerm)
+    return matchesExp && matchesArea && matchesSearch
   })
 
   gallery.replaceChildren(...filtered.map((painting) => createCard(painting, language)))
